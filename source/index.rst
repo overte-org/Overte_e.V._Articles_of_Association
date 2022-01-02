@@ -102,6 +102,12 @@ Fördernde Mitglieder sind natürliche und juristische Personen, die den Vereins
 einen finanziellen oder Sachbeitrag fördern. Sie haben das Recht zur Teilnahme an der Mitgliederversammlung,
 ohne damit ein Stimmrecht zu erwerben.
 
+Pseudonyme Mitglieder sind Mitglieder deren reale Identität nur dem Vorstand bekannt sind. Der Vorstand verpflichtet sich ihre reale Identität geheim zu halten.
+In der Mitgliederversammlung haben diese eine Stimme. Sie werden nur unter besonderen Umständen aufgenommen.
+Solche Umstände beinhalten
+- bekannte negative Haltung des Arbeitgebers zur dem Verein oder seinen Zielen;
+- Furcht vor Verfolgung.
+
 (2) Erwerb
 ----------
 Der Antrag auf Mitgliedschaft ist schriftlich oder per E-Mail an den Vorstand zu stellen. Der Vorstand entscheidet über die Aufnahme nach
@@ -141,8 +147,7 @@ seiner Beitragszahlung im Rückstand ist oder den Vereinsinteressen grob zuwider
 
 Dem Mitglied ist vor seinem Ausschluss Gelegenheit zur Anhörung zu geben.
 
-Das Mitglied kann gegen den Ausschluss innerhalb einer Frist von einem Monat nach dem Zugang der Ausschlusserklärung
-die nächste ordentliche Mitgliederversammlung anrufen, die dann abschließend entscheidet.
+Das Mitglied kann gegen den Ausschluss die nächste ordentliche Mitgliederversammlung nach dem Zugang der Ausschlusserklärung anrufen, die dann abschließend entscheidet.
 
 (4) Pflichten der Mitglieder
 ----------------------------
@@ -170,7 +175,6 @@ Die Organe des Vereins sind
 Der Vorstand besteht aus 6 Personen, ihm können nur natürliche Personen angehören.
 
 Der Vorstand wählt aus seiner Mitte einen Vorsitzenden und zwei Stellvertreter. Einer der Stellvertreter ist der Schatzmeister.
-
 
 (2) Vertretungsberechtigung
 ---------------------------
@@ -239,6 +243,7 @@ Werden Vorstandsmitglieder aufgrund ihrer Vorstandstätigkeit von Dritten in Ans
 stellt der Verein das betroffene Mitglied des Vorstands von diesen Ansprüchen frei,
 sofern das Vorstandsmitglied nicht vorsätzlich oder grob fahrlässig handelte.
 
+
 § 7 Kassenprüfung
 =================
 
@@ -306,14 +311,12 @@ Vollmacht ausgeübt werden.
 Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll aufzunehmen, das vom jeweiligen Versammlungsleiter und
 dem Protokollführer zu unterzeichnen ist.
 
-.. #####################################################################################################################################
-
-(8) Wahlen
+(6) Wahlen
 ----------
 Für Wahlen gilt Folgendes: Hat im ersten Wahlgang kein Kandidat die Mehrheit der abgegebenen gültigen Stimmen erreicht,
 findet eine Stichwahl zwischen den Kandidaten statt, welche die beiden höchsten Stimmenzahlen erreicht haben.
 
-(9) Aufgabenbereiche
+(7) Aufgabenbereiche
 --------------------
 Die Mitgliederversammlung ist zuständig für:
 
@@ -325,7 +328,7 @@ Die Mitgliederversammlung ist zuständig für:
 - die Beschlussfassung über Satzungsänderungen und die Auflösung des Vereins.
 
 
-(11) Versammlungsleitung
+(8) Versammlungsleitung
 ------------------------
 Die Mitgliederversammlung wird von dem 1. Vorsitzenden des Vorstandes, bei dessen Verhinderung von seinem Stellvertreter oder
 dem Schatzmeister geleitet.
@@ -337,6 +340,7 @@ Der Versammlungsleiter bestimmt einen Protokollführer.
 ==========================================
 Eine außerordentliche Mitgliederversammlung findet statt, wenn das Interesse des Vereins es erfordert oder wenn 1/5 der
 Mitglieder es schriftlich unter Angabe der Gründe beim Vorstand beantragt.
+
 
 § 10 Auflösung des Vereins
 ==========================
