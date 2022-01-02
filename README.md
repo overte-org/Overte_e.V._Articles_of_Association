@@ -9,3 +9,9 @@ Update translation:
 2. `sphinx-intl update -l en`
 3. Edit the translation .po files with an editor like Poedit.
 4. Build if you want to see your changes.
+
+Prebuild documentation:
+You can look at this document without needing to build it yourself.
+Updates are automatically built here:
+German https://buyanvr-organizational-code-draft.readthedocs.io/de/latest/
+English https://buyanvr-organizational-code-draft.readthedocs.io/en/latest/
