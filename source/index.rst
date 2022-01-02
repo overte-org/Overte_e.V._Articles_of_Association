@@ -1,4 +1,4 @@
-Vircadia e.V. Satzung
+BuyanVR e.V. Satzung
 =====================
 
 .. toctree::
@@ -20,7 +20,7 @@ diese Verbesserungen zum allgemeinen Wohl zugänglich zu machen.
 Entwicklung freier Software im Sinn dieser Satzung umfasst die Erforschung und Ausarbeitung der theoretischen Grundlagen und
 Konzepte sowie deren Erprobung durch Programmierung und Test freier Software, welche diese Konzepte und Grundlagen realisiert.
 
-Das "Vircadia" Software-Paket ist eine grafische Umgebung, die sowohl Infrastruktur für Programme
+Das "BuyanVR" Software-Paket ist eine grafische Umgebung, die sowohl Infrastruktur für Programme
 als auch Anwenderprogramme inklusive Töne, Bilder, 3D-Modelle, Schriftstücke und Übersetzungen enthält.
 Es wird als freie Software entwickelt und wird der Allgemeinheit unentgeltlich zur Verfügung gestellt.
 
@@ -32,7 +32,7 @@ Der Begriff "Social-VR" bezeichnet eine digitale dreidimensionale Umgebung in de
 
 (1) Name, Eintragung
 --------------------
-Der Name des Vereins lautet „Vircadia“. Er soll in das Vereinsregister eingetragen werden. Nach der Eintragung führt er den
+Der Name des Vereins lautet „BuyanVR“. Er soll in das Vereinsregister eingetragen werden. Nach der Eintragung führt er den
 Rechtsformzusatz „e.V.“ im Namen.
 
 (2) Geschäftsjahr
@@ -57,7 +57,7 @@ Abgabenordnung.
 (2) Konkreter Förderzweck
 -------------------------
 Zweck des Vereins ist die Förderung und Verbreitung freier Social-VR-Software im Sinne Freier Software unter besonderer Berücksichtigung des
-Programmpakets "Vircadia" um den freien Wissensaustausch und die Chancengleichheit beim Zugang zu Software sowie Volksbildung,
+Programmpakets "BuyanVR" um den freien Wissensaustausch und die Chancengleichheit beim Zugang zu Software sowie Volksbildung,
 Wissenschaft und Forschung zu unterstützen.
 
 (3) Maßnahmen
@@ -76,6 +76,8 @@ Der Satzungszweck wird verwirklicht insbesondere durch:
 
 (e) Beiträge zur sachkundigen Information der Öffentlichkeit im Tätigkeitsbereich des Vereins und Teilnahme an Messen und Kongressen
     um die Informationen einem breiteren Spektrum von Anwendern zugänglich zu machen.
+
+(f) Beratung und Unterstützung von Bildungseinrichtungen bei der Implimentierung freider Social-VR-Software
 
 (4) Gemeinnützigkeit
 --------------------
@@ -221,7 +223,7 @@ Die Vergütung für den Zeitaufwand bedarf dem Grunde und der Höhe nach der vor
 Der Vorstand fasst seine Beschlüsse in Vorstandssitzungen, die von dem 1. Vorsitzenden, bei dessen Verhinderung von einem der Stellvertreter,
 in Textform einberufen werden. In jedem Fall ist eine Einberufungsfrist von einer Woche einzuhalten.
 
-Die Vorstandssitzungen können als virtuelles Treffen abgehalten werden. Das virtuelle Vorstandtreffen erfolgt innerhalb der Vircadia Software
+Die Vorstandssitzungen können als virtuelles Treffen abgehalten werden. Das virtuelle Vorstandtreffen erfolgt innerhalb der BuyanVR Software
 oder alternativ durch Einwahl aller Teilnehmer in eine Video- oder Telefonkonferenz. Im Übrigen gelten dieselben Regelungen.
 
 Der Vorstand ist beschlussfähig, wenn mindestens drei Vorstandsmitglieder, darunter der 1. Vorsitzende oder einer seiner Stellvertreter,
@@ -266,7 +268,7 @@ Die Mitgliederversammlung findet mindestens einmal jährlich statt.
 ----------------------------------------------------------
 Die Mitgliederversammlung kann als Präsenzversammlung oder als virtuelle Mitgliederversammlung abgehalten werden.
 Zur Präsenzversammlung treffen sich alle Teilnehmer der Mitgliederversammlung an einem gemeinsamen Ort.
-Die virtuelle Mitgliederversammlung erfolgt innerhalb der Vircadia Software oder alternativ durch Einwahl aller Teilnehmer
+Die virtuelle Mitgliederversammlung erfolgt innerhalb der BuyanVR Software oder alternativ durch Einwahl aller Teilnehmer
 in eine Video- oder Telefonkonferenz.
 
 Eine Kombination von Präsenzversammlung und virtueller Mitgliederversammlung ist möglich, indem den Mitglieder
@@ -274,7 +276,7 @@ die Möglichkeit eröffnet wird, an der Präsenzversammlung mittels Video- oder 
 
 Der Vorstand entscheidet über die Form der Mitgliederversammlung und teilt diese in der Einladung zur Mitgliederversammlung mit.
 Lädt der Vorstand zu einer virtuellen Mitgliederversammlung ein, so teilt er den Mitglieder spätestens eine Stunde vor
-Beginn der Mitgliederversammlung per E-Mail die Einwahldaten für die Vircadia-Software oder Video- oder Telefonkonferenz mit.
+Beginn der Mitgliederversammlung per E-Mail die Einwahldaten für die BuyanVR-Software oder Video- oder Telefonkonferenz mit.
 
 (3) Einberufung und Tagesordnung
 --------------------------------
