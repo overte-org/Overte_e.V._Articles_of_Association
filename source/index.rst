@@ -77,7 +77,7 @@ Der Satzungszweck wird verwirklicht insbesondere durch:
 (e) Beiträge zur sachkundigen Information der Öffentlichkeit im Tätigkeitsbereich des Vereins und Teilnahme an Messen und Kongressen
     um die Informationen einem breiteren Spektrum von Anwendern zugänglich zu machen.
 
-(f) Beratung und Unterstützung von Bildungseinrichtungen bei der Implimentierung freider Social-VR-Software
+(f) Beratung und Unterstützung von Bildungseinrichtungen bei der Implementierung freier Social-VR-Software
 
 (4) Gemeinnützigkeit
 --------------------
@@ -105,6 +105,7 @@ ohne damit ein Stimmrecht zu erwerben.
 Pseudonyme Mitglieder sind Mitglieder deren reale Identität nur dem Vorstand bekannt sind. Der Vorstand verpflichtet sich ihre reale Identität geheim zu halten.
 In der Mitgliederversammlung haben diese eine Stimme. Sie werden nur unter besonderen Umständen aufgenommen.
 Solche Umstände beinhalten
+
 - bekannte negative Haltung des Arbeitgebers zur dem Verein oder seinen Zielen;
 - Furcht vor Verfolgung.
 
@@ -220,7 +221,7 @@ Maximal dürfen zwei Vorstandsmitglieder kooptiert werden.
 (5) Vergütung
 -------------
 Mitglieder des Vorstands können darüber hinaus für ihre Tätigkeit eine angemessene Vergütung erhalten.
-Die Vergütung für den Zeitaufwand bedarf dem Grunde und der Höhe nach der vorherigen Beschlussfassung der Mitgliederversammlung
+Die Vergütung für den Zeitaufwand bedarf dem Grunde und der Höhe nach der vorherigen Beschlussfassung der Mitgliederversammlung.
 
 (6) Beschlussfassung
 --------------------
