@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Vircadia e.V. Satzung'
+project = 'BuyanVR e.V. Satzung'
 copyright = '2021, Julian Groß'
 author = 'Julian Groß'
 version = '0.1'
@@ -40,6 +40,7 @@ templates_path = ['_templates']
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
 language = 'de'
+locale_dirs = ['locales/']
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.

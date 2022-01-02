@@ -2,7 +2,7 @@ How to build this documentation:
 
 1. Install Sphinx via pip3 `pip3 install Sphinx`
 2. Build the documentation in the source language `make singlehtml`
-3. Build the translated documentation `make SPHINXOPTS="-Dlanguage=en" html`
+3. Build the translated documentation `make SPHINXOPTS="-Dlanguage=en" singlehtml`
 
 Update translation:
 1. `make gettext`
