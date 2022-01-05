@@ -210,7 +210,8 @@ Der Vorstand darf nicht:
 --------
 Die Vorstandsmitglieder werden von der Mitgliederversammlung für die Dauer von einem Jahr gewählt. Wählbar sind
 nur Vereinsmitglieder. Wiederwahl ist möglich. Die Vorstandsmitglieder werden von der Mitgliederversammlung pro zu besetzendem Sitz
-im gesonderten Wahlgang bestimmt.
+im gesonderten Wahlgang bestimmt. In jedem Wahlgang geben die Mitglieder eine Stimme pro Kandidaten ab.
+Der Kandidat der die meisten Stimmen erhält ist gewählt.
 
 Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit so lange im Amt, bis ihre Nachfolger gewählt sind.
 
@@ -234,8 +235,6 @@ oder alternativ durch Einwahl aller Teilnehmer in eine Video- oder Telefonkonfer
 Der Vorstand ist beschlussfähig, wenn mindestens drei Vorstandsmitglieder, darunter der 1. Vorsitzende oder einer seiner Stellvertreter,
 anwesend sind. Bei der Beschlussfassung entscheidet die Mehrheit der abgegebenen gültigen Stimmen.
 Bei Stimmengleichheit entscheidet die Stimme des 1. Vorsitzenden.
-Ein Vorstandsbeschluss kann in Textform gefasst werden, wenn alle Vorstandsmitglieder ihre Zustimmung zu der zu
-beschließenden Regelung erklären.
 
 (7) Haftungsbeschränkung
 ------------------------
@@ -322,7 +321,7 @@ findet eine Stichwahl zwischen den Kandidaten statt, welche die beiden höchsten
 Die Mitgliederversammlung ist zuständig für:
 
 - die Wahl und Abberufung der Vorstandsmitglieder;
-- die Wahl der Kassenprüfer*innen;
+- die Wahl der Kassenprüfer;
 - die Genehmigung des vom Vorstand aufgestellten Haushaltsplans für das nächste Geschäftsjahr;
 - die Entgegennahme des Jahresberichts und die Entlastung des Vorstands;
 - die Festsetzung der Höhe und der Fälligkeit des Jahresbeitrages (eventuell Auslagerung in Gebührenordnung)
