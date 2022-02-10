@@ -21,7 +21,7 @@ project = 'Overte e.V. Satzung'
 copyright = '2021-2022, Julian Groß'
 author = 'Julian Groß'
 version = '0.1'
-release = '0.1.1'
+release = '0.1.2'
 
 # -- General configuration ---------------------------------------------------
 
