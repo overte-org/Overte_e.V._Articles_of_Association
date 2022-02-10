@@ -42,8 +42,6 @@ Das Geschäftsjahr ist das Kalenderjahr.
 (3) Sitz
 --------
 Der Verein hat seinen Sitz in Paderborn.
-Sofern keine feste Geschäftsstelle eingerichtet ist, folgt die Verwaltung dem Wohnort des jeweiligen Vorstandsmitglieds,
-das die Geschäftsführung wahrnimmt.
 
 
 § 2 Zweck des Vereins, Gemeinnützigkeit
@@ -199,6 +197,7 @@ Darüber hinaus hat er insbesondere folgende Aufgaben:
 - Der Vorstand kann Satzungsänderungen beschließen, die durch das Vereinsregister oder die Finanzbehörde verlangt
   wurden.
 
+Im Innenverhältnis gilt:
 Der Vorstand darf nicht:
 
 - über den An- und Verkauf sowie die Belastung von Grundbesitz,
@@ -211,7 +210,6 @@ Der Vorstand darf nicht:
 Die Vorstandsmitglieder werden von der Mitgliederversammlung für die Dauer von einem Jahr gewählt. Wählbar sind
 nur Vereinsmitglieder. Wiederwahl ist möglich. Die Vorstandsmitglieder werden von der Mitgliederversammlung pro zu besetzendem Sitz
 im gesonderten Wahlgang bestimmt. In jedem Wahlgang geben die Mitglieder eine Stimme pro Kandidaten ab.
-Der Kandidat der die meisten Stimmen erhält ist gewählt.
 
 Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit so lange im Amt, bis ihre Nachfolger gewählt sind.
 
