@@ -245,16 +245,16 @@ sofern das Vorstandsmitglied nicht vorsätzlich oder grob fahrlässig handelte.
 § 7 Kassenprüfung
 =================
 
-Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine Person zu Kassenprüfer. Diese dürfen nicht Vorstandsmitglied sein.
+Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine Person zu Kassenprüfer. Dieser darf nicht Vorstandsmitglied sein.
 Wiederwahl ist zulässig.
 
-Der Kassenprüfer haben die Kasse des Vereins einschließlich der Bücher und Belege mindestens einmal im Geschäftsjahr sachlich und
+Der Kassenprüfer hat die Kasse des Vereins einschließlich der Bücher und Belege mindestens einmal im Geschäftsjahr sachlich und
 rechnerisch zu prüfen und dem Vorstand jeweils schriftlich Bericht zu erstatten.
 
-Der Kassenprüfer erstatten der Mitgliederversammlung einen Prüfungsbericht und beantragen bei ordnungsgemäßer Führung der Kassengeschäfte
-die Entlastung des Schatzmeister sowie der übrigen Vorstandsmitglieder.
+Der Kassenprüfer erstattet der Mitgliederversammlung einen Prüfungsbericht und beantragt bei ordnungsgemäßer Führung der Kassengeschäfte
+die Entlastung des Schatzmeisters sowie der übrigen Vorstandsmitglieder.
 
-Kassenprüfer nehmen ihre Aufgaben gewissenhaft und unparteiisch wahr und sind zur Verschwiegenheit verpflichtet.
+Der Kassenprüfer nimmt seine Aufgaben gewissenhaft und unparteiisch wahr und ist zur Verschwiegenheit verpflichtet.
 
 Der Vorstand ist verpflichtet, dem Kassenprüfer die zur Prüfung erforderlichen Unterlagen zugänglich zu machen und
 die erforderlichen Auskünfte zu erteilen.
