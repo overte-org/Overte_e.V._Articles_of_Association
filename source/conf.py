@@ -28,8 +28,8 @@ release = '0.1.3'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['rst2pdf.pdfbuilder']
-pdf_documents = [('index', u'Overte_Satzung', u'Overte e.V. Satzung', u'Julian Groß'),]
+#extensions = ['rst2pdf.pdfbuilder']
+#pdf_documents = [('index', u'Overte_Satzung', u'Overte e.V. Satzung', u'Julian Groß'),]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
