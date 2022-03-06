@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Vircadia e.V. Satzung 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-05 15:48+0100\n"
-"PO-Revision-Date: 2022-03-05 15:48+0100\n"
+"POT-Creation-Date: 2022-03-06 05:02+0100\n"
+"PO-Revision-Date: 2022-03-06 05:03+0100\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -449,10 +449,11 @@ msgstr "(1) Count of Boardmembers"
 
 #: ../../source/index.rst:174
 msgid ""
-"Der Vorstand besteht aus 6 Personen, ihm können nur natürliche Personen "
-"angehören."
+"Der Vorstand besteht aus mindestens 3 und maximal 7 Personen, ihm können nur "
+"natürliche Personen angehören."
 msgstr ""
-"The board consists of 6 people, only natural people can be part of the board."
+"The board consists of a minium of 3 and a maximum of 7 people, only natural "
+"people can be part of the board."
 
 #: ../../source/index.rst:176
 msgid ""
@@ -468,11 +469,11 @@ msgstr "(2) Authorisation of representation"
 
 #: ../../source/index.rst:180
 msgid ""
-"Vertretungsberechtigt sind je drei Vorstandsmitglieder gemeinsam. Durch "
+"Vertretungsberechtigt sind je zwei Vorstandsmitglieder gemeinsam. Durch "
 "Beschluss der Mitgliederversammlung können Vorstandsmitglieder von den "
 "Beschränkungen des § 181 BGB befreit werden."
 msgstr ""
-"Authorised to represent are three board members together. Board members may be "
+"Authorised to represent are two board members together. Board members may be "
 "except from the limitations of § 181 BGB if decided by the general assembly."
 
 #: ../../source/index.rst:184

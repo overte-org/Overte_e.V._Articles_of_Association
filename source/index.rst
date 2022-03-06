@@ -171,13 +171,13 @@ Die Organe des Vereins sind
 
 (1) Anzahl der Vorstandsmitglieder
 ----------------------------------
-Der Vorstand besteht aus 6 Personen, ihm können nur natürliche Personen angehören.
+Der Vorstand besteht aus mindestens 3 und maximal 7 Personen, ihm können nur natürliche Personen angehören.
 
 Der Vorstand wählt aus seiner Mitte einen Vorsitzenden und zwei Stellvertreter. Einer der Stellvertreter ist der Schatzmeister.
 
 (2) Vertretungsberechtigung
 ---------------------------
-Vertretungsberechtigt sind je drei Vorstandsmitglieder gemeinsam. Durch Beschluss der Mitgliederversammlung
+Vertretungsberechtigt sind je zwei Vorstandsmitglieder gemeinsam. Durch Beschluss der Mitgliederversammlung
 können Vorstandsmitglieder von den Beschränkungen des § 181 BGB befreit werden.
 
 (3) Aufgaben
