@@ -134,7 +134,7 @@ Die Mitgliedschaft endet
 (2) Austritt
 ------------
 Der Austritt eines Mitgliedes erfolgt durch schriftliche Erklärung oder per E-Mail gegenüber dem Vorstand. Der Austritt ist nur mit einer
-Frist von einem Monaten zum 31.12. eines Geschäftsjahrs zulässig.
+Frist von einem Monat zum 31.12. eines Geschäftsjahrs zulässig.
 
 (3) Ausschluss
 --------------
