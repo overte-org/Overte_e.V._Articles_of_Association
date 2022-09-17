@@ -177,7 +177,7 @@ Der Vorstand wählt aus seiner Mitte einen Vorsitzenden und zwei Stellvertreter.
 
 (2) Vertretungsberechtigung
 ---------------------------
-Vertretungsberechtigt sind je zwei Vorstandsmitglieder gemeinsam. Durch Beschluss der Mitgliederversammlung
+Vertretungsberechtigt ist je ein Vorstandsmitglied. Durch Beschluss der Mitgliederversammlung
 können Vorstandsmitglieder von den Beschränkungen des § 181 BGB befreit werden.
 
 (3) Aufgaben
@@ -210,6 +210,7 @@ Der Vorstand darf nicht:
 Die Vorstandsmitglieder werden von der Mitgliederversammlung für die Dauer von einem Jahr gewählt. Wählbar sind
 nur Vereinsmitglieder. Wiederwahl ist möglich. Die Vorstandsmitglieder werden von der Mitgliederversammlung pro zu besetzendem Sitz
 im gesonderten Wahlgang bestimmt. In jedem Wahlgang geben die Mitglieder eine Stimme pro Kandidaten ab.
+Ist die minimale Anzahl an Vorstandsmitgliedern gewählt, kann in jedem folgenden Wahlgang auch dafür gestimmt werden das der Sitz frei bleibt.
 
 Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit so lange im Amt, bis ihre Nachfolger gewählt sind.
 
@@ -246,7 +247,7 @@ sofern das Vorstandsmitglied nicht vorsätzlich oder grob fahrlässig handelte.
 =================
 
 Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine Person zu Kassenprüfer. Dieser darf nicht Vorstandsmitglied sein.
-Wiederwahl ist zulässig.
+Wiederwahl ist zulässig. Lässt sich kein Kassenprüfer finden, wird die Kassenprüfung bis zur nächsten Mitgliederversammlung ausgesetzt.
 
 Der Kassenprüfer hat die Kasse des Vereins einschließlich der Bücher und Belege mindestens einmal im Geschäftsjahr sachlich und
 rechnerisch zu prüfen und dem Vorstand jeweils schriftlich Bericht zu erstatten.
