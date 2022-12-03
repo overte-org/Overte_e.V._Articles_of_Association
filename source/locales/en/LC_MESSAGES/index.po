@@ -1,15 +1,14 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, Julian Groß
-# This file is distributed under the same license as the Vircadia e.V.
-# Satzung package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+# Overte e.V. Satzung
+# Copyright (C) 2021-2022, Julian Groß
+# SPDX-License-Identifier: MIT
+# Julian Groß <julian.g@posteo.de>, 2021.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Vircadia e.V. Satzung 0.1\n"
+"Project-Id-Version: Overte e.V. Satzung 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-01 09:44+0200\n"
-"PO-Revision-Date: 2022-09-17 21:50+0200\n"
+"POT-Creation-Date: 2022-12-03 13:21+0100\n"
+"PO-Revision-Date: 2022-12-03 13:23+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -18,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.10.1\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../source/index.rst:4
 msgid "Contents:"
@@ -940,6 +939,10 @@ msgstr ""
 "If the association is disbanded or loses its tax-privileged purpose, all assets "
 "owned by the association go towards the K Desktop Environment e.V. that may use "
 "those assets only towards charitable and ecclesiastical causes."
+
+#: ../../source/index.rst:352
+msgid "Zuletzt geändert von der Mitgliederversammlung am 17. September 2022."
+msgstr "Last changed by the general assembly on the 17th of September 2022."
 
 #~ msgid ""
 #~ "Mitglied des Vereins kann jede natürliche Person oder juristische Person "

@@ -345,3 +345,8 @@ Mitglieder es schriftlich unter Angabe der Gründe beim Vorstand beantragt.
 ==========================
 Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die
 K Desktop Environment e.V., die es unmittelbar und ausschließlich für gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden hat.
+
+
+
+
+Zuletzt geändert von der Mitgliederversammlung am 17. September 2022.
