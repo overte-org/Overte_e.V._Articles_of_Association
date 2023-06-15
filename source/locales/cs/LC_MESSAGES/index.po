@@ -1,0 +1,791 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021-2023, Overte e.V.
+# This file is distributed under the same license as the Overte e.V. Satzung
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Overte e.V. Satzung 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-15 19:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../source/index.rst:4
+msgid "Contents:"
+msgstr ""
+
+#: ../../source/index.rst:2 220fcbd314934414b4895732e148f2ed
+msgid "Overte e.V. Satzung"
+msgstr ""
+
+#: ../../source/index.rst:11 5a93277e6e864c5986403d6d06a22d75
+msgid "Erklärung von Begriffen"
+msgstr ""
+
+#: ../../source/index.rst:13 511f25d32c8b42428b93e139f8b9ad4f
+msgid ""
+"Freie Software, auch \"Open-Source Software\" genannt, im Sinn dieser "
+"Satzung sind Computerprogramme, die vom Urheber in nicht rückholbarer "
+"Weise der Allgemeinheit unentgeltlich zur Verfügung gestellt werden. Der "
+"Urheber gewährt Dritten dabei die Freiheit, das Programm für jeden Zweck "
+"einsetzen zu dürfen; untersuchen zu dürfen, wie das Programm funktioniert"
+" und es den eigenen Bedürfnissen anzupassen; Kopien für andere machen zu "
+"dürfen; und das Programm verbessern zu dürfen und diese Verbesserungen "
+"zum allgemeinen Wohl zugänglich zu machen."
+msgstr ""
+
+#: ../../source/index.rst:20 f7b01b92fda04261b631f9a3d3bdd7be
+msgid ""
+"Entwicklung freier Software im Sinn dieser Satzung umfasst die "
+"Erforschung und Ausarbeitung der theoretischen Grundlagen und Konzepte "
+"sowie deren Erprobung durch Programmierung und Test freier Software, "
+"welche diese Konzepte und Grundlagen realisiert."
+msgstr ""
+
+#: ../../source/index.rst:23 2784dd2ccb474357a97d6388ca8ee76d
+msgid ""
+"Das \"Overte\" Software-Paket ist eine grafische Umgebung, die sowohl "
+"Infrastruktur für Programme als auch Anwenderprogramme inklusive Töne, "
+"Bilder, 3D-Modelle, Schriftstücke und Übersetzungen enthält. Es wird als "
+"freie Software entwickelt und wird der Allgemeinheit unentgeltlich zur "
+"Verfügung gestellt."
+msgstr ""
+
+#: ../../source/index.rst:27 f0762664991b4f439243696d39878503
+msgid ""
+"Der Begriff \"Social-VR\" bezeichnet eine digitale dreidimensionale "
+"Umgebung in der Nutzer mit einander realitätsnahe Interagieren können."
+msgstr ""
+
+#: ../../source/index.rst:31 0e08c10227384d3b87ff7026cd8c1698
+msgid "§ 1 Name, Sitz, Geschäftsjahr"
+msgstr ""
+
+#: ../../source/index.rst:34 7853a08f215a49609a681a512ad9414e
+msgid "(1) Name, Eintragung"
+msgstr ""
+
+#: ../../source/index.rst:35 1e4cd35cb3a54eb691c5eb3c44b8101b
+msgid ""
+"Der Name des Vereins lautet „Overte“. Er soll in das Vereinsregister "
+"eingetragen werden. Nach der Eintragung führt er den Rechtsformzusatz "
+"„e.V.“ im Namen."
+msgstr ""
+
+#: ../../source/index.rst:39 b5180a7a9b4d45c788d83986eb062efc
+msgid "(2) Geschäftsjahr"
+msgstr ""
+
+#: ../../source/index.rst:40 28922c3e71e2462fb30927daa5a4f69b
+msgid "Das Geschäftsjahr ist das Kalenderjahr."
+msgstr ""
+
+#: ../../source/index.rst:43 c6b6dbd545a44cfdbdfc9e8533de8cf5
+msgid "(3) Sitz"
+msgstr ""
+
+#: ../../source/index.rst:44 a40c4c1e6f8a41ebbc0f3dabed42e36e
+msgid "Der Verein hat seinen Sitz in Paderborn."
+msgstr ""
+
+#: ../../source/index.rst:48 ef8c5dca856e41b39b82ac7e6df7f132
+msgid "§ 2 Zweck des Vereins, Gemeinnützigkeit"
+msgstr ""
+
+#: ../../source/index.rst:51 79041d9726ef433ab299398aa2079b88
+msgid "(1) Steuerbegünstigte Zwecke"
+msgstr ""
+
+#: ../../source/index.rst:52 9b306cb381614a89b5c64f8d32145fc8
+msgid ""
+"Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke "
+"im Sinne des Abschnitts „Steuerbegünstigte Zwecke„ der Abgabenordnung."
+msgstr ""
+
+#: ../../source/index.rst:56 b3e9d567597e4b618ea3f7e941f3649e
+msgid "(2) Konkreter Förderzweck"
+msgstr ""
+
+#: ../../source/index.rst:57 9a9ec6155be1433bac5813d733e024c8
+msgid ""
+"Zweck des Vereins ist die Förderung und Verbreitung freier Social-VR-"
+"Software im Sinne Freier Software unter besonderer Berücksichtigung des "
+"Programmpakets \"Overte\" um den freien Wissensaustausch und die "
+"Chancengleichheit beim Zugang zu Software sowie Volksbildung, "
+"Wissenschaft und Forschung zu unterstützen."
+msgstr ""
+
+#: ../../source/index.rst:62 91e030bf64e244208e9dd635861aa695
+msgid "(3) Maßnahmen"
+msgstr ""
+
+#: ../../source/index.rst:63 cf844f9d4b3341de966388fe0a435404
+msgid "Der Satzungszweck wird verwirklicht insbesondere durch:"
+msgstr ""
+
+#: ../../source/index.rst:65 c20d6cbf0e0349ab896f1d22bc7664c8
+msgid ""
+"die Förderung der Bildung, des Meinungsaustauschs und der Zusammenarbeit "
+"von Anwendern, Entwicklern und Forschern"
+msgstr ""
+
+#: ../../source/index.rst:67 a7c4064da78a455290b38e66ce7930be
+msgid ""
+"Forschung und Diskussion über die Auswirkungen freier Social-VR-Software "
+"und den Gedanken Freier Software auf Gesellschaft und Wissenschaft"
+msgstr ""
+
+#: ../../source/index.rst:70 cc828f1d9d9a4c0480a710ef98e18acd
+msgid "die Weiterentwicklung und Forschung an freier Social-VR-Software"
+msgstr ""
+
+#: ../../source/index.rst:72 01cda2eaa3974ea183d819a7fb3aee99
+msgid ""
+"die Bereitstellung freier Social-VR-Software, unterstützende Bilder, "
+"Töne, 3D-Modelle, Daten und Dokumentation sowie Förderung deren "
+"Verfügbarkeit und die Erstellung und Verbreitung von Informationsmaterial"
+" darüber"
+msgstr ""
+
+#: ../../source/index.rst:75 9be25e6a344843c5b03574ab12193c69
+msgid ""
+"Beiträge zur sachkundigen Information der Öffentlichkeit im "
+"Tätigkeitsbereich des Vereins und Teilnahme an Messen und Kongressen um "
+"die Informationen einem breiteren Spektrum von Anwendern zugänglich zu "
+"machen."
+msgstr ""
+
+#: ../../source/index.rst:78 cf00d088bf84415695283f695dccacd8
+msgid ""
+"Beratung und Unterstützung von Bildungseinrichtungen bei der "
+"Implementierung freier Social-VR-Software"
+msgstr ""
+
+#: ../../source/index.rst:81 fddc95729e8e47dfa4c22852be69d0de
+msgid "(4) Gemeinnützigkeit"
+msgstr ""
+
+#: ../../source/index.rst:82 4c5c82ccdfac492da21c9ec36533167a
+msgid ""
+"Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie "
+"eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die "
+"satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine "
+"Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben,"
+" die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe "
+"Vergütungen begünstigt werden."
+msgstr ""
+
+#: ../../source/index.rst:89 5da66f2d9ecd488ba54bfa014f95e8c2
+msgid "§ 3 Erwerb der Mitgliedschaft, Mitgliedsbeiträge"
+msgstr ""
+
+#: ../../source/index.rst:92 aef0051c5d874153b7ca1727470c0fa7
+msgid "(1) Art der Mitglieder"
+msgstr ""
+
+#: ../../source/index.rst:93 dd9aee027cd84347a8717da8a086360f
+msgid ""
+"Mitglied des Vereins kann jede natürliche Person oder juristische Person "
+"werden. Juristische Personen benennen eine natürliche Person als "
+"Vertreter zur Ausübung der verbleibenden Rechte und Pflichten."
+msgstr ""
+
+#: ../../source/index.rst:96 793df3b2cf21495cbf7c6a795ba84848
+msgid ""
+"Ehrenmitglieder werden von der Mitgliederversammlung benannt. Sie sind "
+"von der Beitragspflicht befreit. In der Mitgliederversammlung haben diese"
+" eine Stimme."
+msgstr ""
+
+#: ../../source/index.rst:99 bbb5d8ce0f544b3a943667e77098805b
+msgid ""
+"Fördernde Mitglieder sind natürliche und juristische Personen, die den "
+"Vereinszweck und die Vereinsziele insbesondere durch einen finanziellen "
+"oder Sachbeitrag fördern. Sie haben das Recht zur Teilnahme an der "
+"Mitgliederversammlung, ohne damit ein Stimmrecht zu erwerben."
+msgstr ""
+
+#: ../../source/index.rst:103 635b28430a63426c86becb9ce802f8e9
+msgid ""
+"Pseudonyme Mitglieder sind Mitglieder deren reale Identität nur dem "
+"Vorstand bekannt sind. Der Vorstand verpflichtet sich ihre reale "
+"Identität geheim zu halten. In der Mitgliederversammlung haben diese eine"
+" Stimme. Sie werden nur unter besonderen Umständen aufgenommen. Solche "
+"Umstände beinhalten"
+msgstr ""
+
+#: ../../source/index.rst:107 ec4c1abb10ef4a7ca947ae5363207b73
+msgid ""
+"bekannte negative Haltung des Arbeitgebers zur dem Verein oder seinen "
+"Zielen;"
+msgstr ""
+
+#: ../../source/index.rst:108 f81be4005e544e4eac4463247032340e
+msgid "Furcht vor Verfolgung."
+msgstr ""
+
+#: ../../source/index.rst:111 1b97145d93b041edacbb3c306bb37602
+msgid "(2) Erwerb"
+msgstr ""
+
+#: ../../source/index.rst:112 5bdfa4c438014683b81ac54105b2eb7f
+msgid ""
+"Der Antrag auf Mitgliedschaft ist schriftlich oder per E-Mail an den "
+"Vorstand zu stellen. Der Vorstand entscheidet über die Aufnahme nach "
+"freiem Ermessen. Gegen den ablehnenden Bescheid des Vorstands, kann der "
+"Antragsteller Beschwerde erheben. Die Beschwerde ist innerhalb eines "
+"Monats ab Zugang des ablehnenden Bescheids schriftlich beim Vorstand "
+"einzulegen. Über die Beschwerde entscheidet die nächste ordentliche "
+"Mitgliederversammlung."
+msgstr ""
+
+#: ../../source/index.rst:118 14bd80b9ee64431f926f03c90e2bc54b
+msgid "(3) Beiträge"
+msgstr ""
+
+#: ../../source/index.rst:119 f0905a0fdc7c4d9b878b9183563b50ba
+msgid ""
+"Mitglieder bezahlen einen Jahresbeitrag. Über die Höhe und Fälligkeit des"
+" Beitrags beschließt die Mitgliederversammlung."
+msgstr ""
+
+#: ../../source/index.rst:123 d794189ffefa4f73ad90ee3d8b032053
+msgid "§ 4 Beendigung der Mitgliedschaft"
+msgstr ""
+
+#: ../../source/index.rst:126 4d2ac1f580184ed48548530ba287d320
+msgid "(1) Grund"
+msgstr ""
+
+#: ../../source/index.rst:127 192cb0b0c4894461b35eba0cc85edb64
+msgid "Die Mitgliedschaft endet"
+msgstr ""
+
+#: ../../source/index.rst:129 94bc6b9e6de74bba8507a99ebe1e4dfd
+msgid ""
+"bei natürlichen Personen durch deren Tod oder Verlust der "
+"Geschäftsfähigkeit;"
+msgstr ""
+
+#: ../../source/index.rst:130 f6b4715275e749afb99b6dcd847f7544
+msgid "bei juristischen Personen durch Verlust der Rechtsfähigkeit;"
+msgstr ""
+
+#: ../../source/index.rst:131 43c98be21ceb4e6da5c9c9902e465b22
+msgid "durch Austritt;"
+msgstr ""
+
+#: ../../source/index.rst:132 95776c5c8d3d47faab4cc1eb343058cf
+msgid "durch Ausschluss."
+msgstr ""
+
+#: ../../source/index.rst:135 16c431bb55d643b691d99b53bd0a5695
+msgid "(2) Austritt"
+msgstr ""
+
+#: ../../source/index.rst:136 b4b29749457649b2b6757805c028542d
+msgid ""
+"Der Austritt eines Mitgliedes erfolgt durch schriftliche Erklärung oder "
+"per E-Mail gegenüber dem Vorstand. Der Austritt ist nur mit einer Frist "
+"von einem Monat zum 31.12. eines Geschäftsjahrs zulässig."
+msgstr ""
+
+#: ../../source/index.rst:140 48f029125c434e25819fa23d2827a0cf
+msgid "(3) Ausschluss"
+msgstr ""
+
+#: ../../source/index.rst:141 5d7f7f1043944c6398d71e21edaa0179
+msgid ""
+"Ein Mitglied kann durch Beschluss des Vorstands mit sofortiger Wirkung "
+"aus wichtigem Grund aus dem Verein ausgeschlossen werden, wenn ein "
+"wichtiger Grund die Fortführung der Mitgliedschaft für den Verein oder "
+"seine Mitglieder unzumutbar erscheinen lässt."
+msgstr ""
+
+#: ../../source/index.rst:144 55deff3152244ad09071adf837131051
+msgid ""
+"Ein solcher wichtiger Grund liegt insbesondere dann vor, wenn das "
+"Mitglied trotz Mahnung länger als sechs Monate mit seiner Beitragszahlung"
+" im Rückstand ist oder den Vereinsinteressen grob zuwider gehandelt hat."
+msgstr ""
+
+#: ../../source/index.rst:147 6698e972c296496dbd39e9f6556dcffc
+msgid "Dem Mitglied ist vor seinem Ausschluss Gelegenheit zur Anhörung zu geben."
+msgstr ""
+
+#: ../../source/index.rst:149 bc1972f919da478f9044ade1e80d2a16
+msgid ""
+"Das Mitglied kann gegen den Ausschluss die nächste ordentliche "
+"Mitgliederversammlung nach dem Zugang der Ausschlusserklärung anrufen, "
+"die dann abschließend entscheidet."
+msgstr ""
+
+#: ../../source/index.rst:152 e6212ca3fde1421b92fce4df8999afe3
+msgid "(4) Pflichten der Mitglieder"
+msgstr ""
+
+#: ../../source/index.rst:153 085b7679ba4844469ed1323456e71c25
+msgid ""
+"Mit dem Antrag auf Mitgliedschaft erkennen die Mitglieder den Inhalt der "
+"Satzung und der sonstigen Vereinsordnungen an. Die Mitglieder sind "
+"verpflichtet, die Ziele und Interessen des Vereins zu unterstützen sowie "
+"die Beschlüsse und Anordnungen der Vereinsorgane zu befolgen."
+msgstr ""
+
+#: ../../source/index.rst:157 088ac845a7104dcca034fcb7755fe9cb
+msgid ""
+"Die Mitglieder sind verpflichtet, dem Vorstand eine ladungsfähige "
+"postalische Anschrift sowie eine E-Mail-Adresse mitzuteilen und den "
+"Vorstand über jede Änderung ihres Namens und/oder ihrer Adressdaten "
+"unverzüglich zu informieren."
+msgstr ""
+
+#: ../../source/index.rst:162 cfa0604b62db4fe89fba9fbe1da85b13
+msgid "§ 5 Die Organe des Vereins"
+msgstr ""
+
+#: ../../source/index.rst:163 4ab77d71d8e14c75a0de30fe76d2a418
+msgid "Die Organe des Vereins sind"
+msgstr ""
+
+#: ../../source/index.rst:165 87a6e379966843ee9087fe4406d6520c
+msgid "die Mitgliederversammlung sowie"
+msgstr ""
+
+#: ../../source/index.rst:166 43d8da8b82474c509d1a92c9dd0ca2ae
+msgid "der Vorstand."
+msgstr ""
+
+#: ../../source/index.rst:170 53ff6d300eb144dbb05bc65671a0920d
+msgid "§ 6 Der Vorstand"
+msgstr ""
+
+#: ../../source/index.rst:173 71d42a90b0d24c2aaea99ce636727f4f
+msgid "(1) Anzahl der Vorstandsmitglieder"
+msgstr ""
+
+#: ../../source/index.rst:174 0ed75a6edd504515900d8c8cb40f3f2e
+msgid ""
+"Der Vorstand besteht aus mindestens 3 und maximal 7 Personen, ihm können "
+"nur natürliche Personen angehören."
+msgstr ""
+
+#: ../../source/index.rst:176 3f9caca6caf54277a32d77785100eb75
+msgid ""
+"Der Vorstand wählt aus seiner Mitte einen Vorsitzenden und zwei "
+"Stellvertreter. Einer der Stellvertreter ist der Schatzmeister."
+msgstr ""
+
+#: ../../source/index.rst:179 09cd2a76431f41dba18bca7ebc04f7ec
+msgid "(2) Vertretungsberechtigung"
+msgstr ""
+
+#: ../../source/index.rst:180 8a71a7d0fe7541908c5f8f9b74b599d0
+msgid ""
+"Vertretungsberechtigt ist je ein Vorstandsmitglied. Durch Beschluss der "
+"Mitgliederversammlung können Vorstandsmitglieder von den Beschränkungen "
+"des § 181 BGB befreit werden."
+msgstr ""
+
+#: ../../source/index.rst:184 7982ba29c225468d897f93844af678f2
+msgid "(3) Aufgaben"
+msgstr ""
+
+#: ../../source/index.rst:185 f2c8a3bc40954ea895e8122845131ad9
+msgid ""
+"Der Vorstand führt die Geschäfte und vertritt den Verein in sämtlichen "
+"Angelegenheiten gerichtlich und außergerichtlich, soweit diese nicht "
+"eines Beschlusses der Mitgliederversammlung bedürfen."
+msgstr ""
+
+#: ../../source/index.rst:188 2d9bfb850b0c43fab840385b658566e8
+msgid "Darüber hinaus hat er insbesondere folgende Aufgaben:"
+msgstr ""
+
+#: ../../source/index.rst:190 d587f61458ae41a8b82f4b55e91b39de
+msgid ""
+"Vorbereitung und Einberufung der Mitgliederversammlung; Aufstellung der "
+"Tagesordnung;"
+msgstr ""
+
+#: ../../source/index.rst:191 6a8648b2017046eface82f07e35cfe54
+msgid "Ausführung der Beschlüsse der Mitgliederversammlung;"
+msgstr ""
+
+#: ../../source/index.rst:192 14d3b43699844d218549a3544baf621b
+msgid "Führen der Bücher;"
+msgstr ""
+
+#: ../../source/index.rst:193 7f5b745e842f40cbb2e9d9417a464405
+msgid ""
+"Erstellung des Haushaltsplans, des Jahresabschlusses und des "
+"Jahresberichtes;"
+msgstr ""
+
+#: ../../source/index.rst:194 993f5c9430f24e18bea393ee1a50c96a
+msgid "Abschluss u. Kündigung von Dienst- u. Arbeitsverträgen;"
+msgstr ""
+
+#: ../../source/index.rst:195 a2d39f91d5bc465c902d72cb0d27cc43
+msgid "Ausübung des Weisungsrechtes gegenüber Mitarbeitern;"
+msgstr ""
+
+#: ../../source/index.rst:196 296eee5db84448c2a5f0e19a6a25b16c
+msgid "Beschlussfassung über die Aufnahme und den Ausschluss von Mitgliedern;"
+msgstr ""
+
+#: ../../source/index.rst:197 0635492e38414faeb4f662058459533f
+msgid ""
+"Der Vorstand kann Satzungsänderungen beschließen, die durch das "
+"Vereinsregister oder die Finanzbehörde verlangt wurden."
+msgstr ""
+
+#: ../../source/index.rst:200 5391510f4d1c47aaac706ac44f332f98
+msgid "Im Innenverhältnis gilt: Der Vorstand darf nicht:"
+msgstr ""
+
+#: ../../source/index.rst:203 895f8ca9dc9c44de837c7d6cd3b24c3a
+msgid "über den An- und Verkauf sowie die Belastung von Grundbesitz,"
+msgstr ""
+
+#: ../../source/index.rst:204 f93241023b754b51a0da9485bda0751b
+msgid "die finanzielle Beteiligung an Gesellschaften sowie"
+msgstr ""
+
+#: ../../source/index.rst:205 308bac66bd8b4c218c4a220cf03c5b7e
+msgid ""
+"die Aufnahme von Darlehen ab EURO 10.000,-, entscheiden. Dies bleibt der "
+"Mitgliederversammlung vorbehalten."
+msgstr ""
+
+#: ../../source/index.rst:209 4c61afe9a4634487a1ceb124d0cf276a
+msgid "(4) Wahl"
+msgstr ""
+
+#: ../../source/index.rst:210 3fea1ce72b6d4358a133f53ed484f2cb
+msgid ""
+"Die Vorstandsmitglieder werden von der Mitgliederversammlung für die "
+"Dauer von einem Jahr gewählt. Wählbar sind nur Vereinsmitglieder. "
+"Wiederwahl ist möglich. Die Vorstandsmitglieder werden von der "
+"Mitgliederversammlung pro zu besetzendem Sitz im gesonderten Wahlgang "
+"bestimmt. In jedem Wahlgang geben die Mitglieder eine Stimme pro "
+"Kandidaten ab. Ist die minimale Anzahl an Vorstandsmitgliedern gewählt, "
+"kann in jedem folgenden Wahlgang auch dafür gestimmt werden das der Sitz "
+"frei bleibt."
+msgstr ""
+
+#: ../../source/index.rst:215 cc6f1604b2724015931c9bd4f4e50dcb
+msgid ""
+"Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer "
+"Amtszeit so lange im Amt, bis ihre Nachfolger gewählt sind."
+msgstr ""
+
+#: ../../source/index.rst:217 718b2b2daf314cbe84fe1dcb77f8ad01
+msgid ""
+"Scheidet ein Vorstandsmitglied vor Ablauf der Amtszeit aus, können die "
+"verbliebenen Vorstandsmitglieder bis zur nächsten Mitgliederversammlung "
+"ein Ersatzmitglied in den Vorstand kooptieren. Maximal dürfen zwei "
+"Vorstandsmitglieder kooptiert werden."
+msgstr ""
+
+#: ../../source/index.rst:222 a0c2d880e0fb4402b2077b9fcd208142
+msgid "(5) Vergütung"
+msgstr ""
+
+#: ../../source/index.rst:223 d751f715327b4b00ac595f74e80533bb
+msgid ""
+"Mitglieder des Vorstands können darüber hinaus für ihre Tätigkeit eine "
+"angemessene Vergütung erhalten. Die Vergütung für den Zeitaufwand bedarf "
+"dem Grunde und der Höhe nach der vorherigen Beschlussfassung der "
+"Mitgliederversammlung."
+msgstr ""
+
+#: ../../source/index.rst:227 4424edea482347b992d2578bc9d72af3
+msgid "(6) Beschlussfassung"
+msgstr ""
+
+#: ../../source/index.rst:228 f934a5eaaaf2417497451f2f25afc54a
+msgid ""
+"Der Vorstand fasst seine Beschlüsse in Vorstandssitzungen, die von dem 1."
+" Vorsitzenden, bei dessen Verhinderung von einem der Stellvertreter, in "
+"Textform einberufen werden. In jedem Fall ist eine Einberufungsfrist von "
+"einer Woche einzuhalten."
+msgstr ""
+
+#: ../../source/index.rst:231 7016890661794aaeb633bc728193682c
+msgid ""
+"Die Vorstandssitzungen können als virtuelles Treffen abgehalten werden. "
+"Das virtuelle Vorstandtreffen erfolgt innerhalb der Overte Software oder "
+"alternativ durch Einwahl aller Teilnehmer in eine Video- oder "
+"Telefonkonferenz. Im Übrigen gelten dieselben Regelungen."
+msgstr ""
+
+#: ../../source/index.rst:234 9ab6e1a87bcc4a5bb053ba1147df6f00
+msgid ""
+"Der Vorstand ist beschlussfähig, wenn mindestens drei "
+"Vorstandsmitglieder, darunter der 1. Vorsitzende oder einer seiner "
+"Stellvertreter, anwesend sind. Bei der Beschlussfassung entscheidet die "
+"Mehrheit der abgegebenen gültigen Stimmen. Bei Stimmengleichheit "
+"entscheidet die Stimme des 1. Vorsitzenden."
+msgstr ""
+
+#: ../../source/index.rst:239 bf76d504289d4727b88efb195e841fd2
+msgid "(7) Haftungsbeschränkung"
+msgstr ""
+
+#: ../../source/index.rst:240 dad6d652b0b047cd802f714bca8e7939
+msgid ""
+"Die Vorstandsmitglieder haften dem Verein gegenüber nur für vorsätzliches"
+" oder grob fahrlässiges Verhalten. Werden Vorstandsmitglieder aufgrund "
+"ihrer Vorstandstätigkeit von Dritten in Anspruch genommen, stellt der "
+"Verein das betroffene Mitglied des Vorstands von diesen Ansprüchen frei, "
+"sofern das Vorstandsmitglied nicht vorsätzlich oder grob fahrlässig "
+"handelte."
+msgstr ""
+
+#: ../../source/index.rst:247 f5e45342675b47028f96df273123bb7a
+msgid "§ 7 Kassenprüfung"
+msgstr ""
+
+#: ../../source/index.rst:249 54b7e0863878451281c648a9fb1cbec6
+msgid ""
+"Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine Person "
+"zu Kassenprüfer. Dieser darf nicht Vorstandsmitglied sein. Wiederwahl ist"
+" zulässig. Lässt sich kein Kassenprüfer finden, wird die Kassenprüfung "
+"bis zur nächsten Mitgliederversammlung ausgesetzt."
+msgstr ""
+
+#: ../../source/index.rst:252 e886317a02bb402198aa8142110ee3fc
+msgid ""
+"Der Kassenprüfer hat die Kasse des Vereins einschließlich der Bücher und "
+"Belege mindestens einmal im Geschäftsjahr sachlich und rechnerisch zu "
+"prüfen und dem Vorstand jeweils schriftlich Bericht zu erstatten."
+msgstr ""
+
+#: ../../source/index.rst:255 9b7e9acc63794a4a8414d9da685f8a94
+msgid ""
+"Der Kassenprüfer erstattet der Mitgliederversammlung einen "
+"Prüfungsbericht und beantragt bei ordnungsgemäßer Führung der "
+"Kassengeschäfte die Entlastung des Schatzmeisters sowie der übrigen "
+"Vorstandsmitglieder."
+msgstr ""
+
+#: ../../source/index.rst:258 d46abd398e33455d931c649fa8b36647
+msgid ""
+"Der Kassenprüfer nimmt seine Aufgaben gewissenhaft und unparteiisch wahr "
+"und ist zur Verschwiegenheit verpflichtet."
+msgstr ""
+
+#: ../../source/index.rst:260 80d6fcc2d8aa4d7c873dedf7c6308322
+msgid ""
+"Der Vorstand ist verpflichtet, dem Kassenprüfer die zur Prüfung "
+"erforderlichen Unterlagen zugänglich zu machen und die erforderlichen "
+"Auskünfte zu erteilen."
+msgstr ""
+
+#: ../../source/index.rst:265 f0fc4d85ba81470099c0a19b66cba434
+msgid "§ 8 Ordentliche Mitgliederversammlung"
+msgstr ""
+
+#: ../../source/index.rst:268 34a5a95734454d518a0bcdafcbc790bb
+msgid "(1) Häufigkeit"
+msgstr ""
+
+#: ../../source/index.rst:269 7a37731a35fc4e0c9d640e934302a1c0
+msgid "Die Mitgliederversammlung findet mindestens einmal jährlich statt."
+msgstr ""
+
+#: ../../source/index.rst:272 95a16e89df054d048741e9e5c065bc74
+msgid "(2) Präsenzversammlung und virtuelle Mitgliederversammlung"
+msgstr ""
+
+#: ../../source/index.rst:273 f1a5eb1f80294a5482e41096f564338a
+msgid ""
+"Die Mitgliederversammlung kann als Präsenzversammlung oder als virtuelle "
+"Mitgliederversammlung abgehalten werden. Zur Präsenzversammlung treffen "
+"sich alle Teilnehmer der Mitgliederversammlung an einem gemeinsamen Ort. "
+"Die virtuelle Mitgliederversammlung erfolgt innerhalb der Overte Software"
+" oder alternativ durch Einwahl aller Teilnehmer in eine Video- oder "
+"Telefonkonferenz."
+msgstr ""
+
+#: ../../source/index.rst:278 78b77a98ba914dceafd51b7ed5a1d1cb
+msgid ""
+"Eine Kombination von Präsenzversammlung und virtueller "
+"Mitgliederversammlung ist möglich, indem den Mitglieder die Möglichkeit "
+"eröffnet wird, an der Präsenzversammlung mittels Video- oder "
+"Telefonkonferenz teilzunehmen."
+msgstr ""
+
+#: ../../source/index.rst:281 05ce887478fd4d7a961e027ee7ca7364
+msgid ""
+"Der Vorstand entscheidet über die Form der Mitgliederversammlung und "
+"teilt diese in der Einladung zur Mitgliederversammlung mit. Lädt der "
+"Vorstand zu einer virtuellen Mitgliederversammlung ein, so teilt er den "
+"Mitglieder spätestens eine Stunde vor Beginn der Mitgliederversammlung "
+"per E-Mail die Einwahldaten für die Overte-Software oder Video- oder "
+"Telefonkonferenz mit."
+msgstr ""
+
+#: ../../source/index.rst:286 6d85a88434c3491a9d2998a3d154fc95
+msgid "(3) Einberufung und Tagesordnung"
+msgstr ""
+
+#: ../../source/index.rst:287 7be3ea014f9f4f7292a29bbc9701c9aa
+msgid ""
+"Die Einberufung der Mitgliederversammlung erfolgt schriftlich oder per "
+"E-Mail durch den Vorstand unter Angabe der Tagesordnung mit einer "
+"Einladungsfrist von mindestens zwei Wochen. Die Frist beginnt am Tage der"
+" Versendung der Einladung. Das Einladungsschreiben gilt dem Mitglied als "
+"zugegangen, wenn es an die letzte vom Mitglied dem Verein bekannt "
+"gegebene Adresse gerichtet ist."
+msgstr ""
+
+#: ../../source/index.rst:292 0487092ff9e44f1a9633769b25b82ba2
+msgid ""
+"Anträge zur Ergänzung der Tagesordnung können von jedem Mitglied "
+"eingebracht werden. Sie müssen eine Woche vor der Versammlung dem "
+"Vorstand schriftlich oder per E-Mail mit Begründung vorliegen. Der "
+"Versammlungsleiter hat die Ergänzung zu Beginn der Versammlung bekannt zu"
+" geben."
+msgstr ""
+
+#: ../../source/index.rst:297 a38bf56121934341bfeffc8819ee931a
+msgid "(4) Beschlussfähigkeit"
+msgstr ""
+
+#: ../../source/index.rst:298 9dc467b43ff74bd8b1e18c7f26fc688d
+msgid ""
+"Die Mitgliederversammlung ist unabhängig von der Anzahl der erschienenen "
+"Mitglieder beschlussfähig."
+msgstr ""
+
+#: ../../source/index.rst:301 c84028bf3420418badddc7adf2952f55
+msgid "(5) Beschlussfassung"
+msgstr ""
+
+#: ../../source/index.rst:302 b330cbc8a2d344fdb6c6aedd43f41c15
+msgid ""
+"Die Beschlüsse werden mit einfacher Mehrheit der abgegebenen Stimmen "
+"gefasst; bei Stimmengleichheit entscheidet der 1. Vorsitzende. "
+"Stimmenthaltungen gelten als nicht abgegebene Stimmen."
+msgstr ""
+
+#: ../../source/index.rst:305 d7edc38d7d7a434cbb02b3d7384d0c1f
+msgid ""
+"Zur Änderung der Satzung und zur Auflösung des Vereins ist eine Mehrheit "
+"von 2/3 der abgegebenen Stimmen erforderlich."
+msgstr ""
+
+#: ../../source/index.rst:307 38f99be26a914a69bc8066ac5d0dcd44
+msgid ""
+"Jedes Mitglied hat eine Stimme. Das Stimmrecht kann nur persönlich oder "
+"für ein Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt "
+"werden."
+msgstr ""
+
+#: ../../source/index.rst:310 dc2bd9f14efa4c27906e94ec755f0c11
+msgid ""
+"Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll "
+"aufzunehmen, das vom jeweiligen Versammlungsleiter und dem "
+"Protokollführer zu unterzeichnen ist."
+msgstr ""
+
+#: ../../source/index.rst:314 550af93ca6b94d3eb7f529bdde084b27
+msgid "(6) Wahlen"
+msgstr ""
+
+#: ../../source/index.rst:315 6ed1ea590585466c8f3e65c4d5eb65db
+msgid ""
+"Für Wahlen gilt Folgendes: Hat im ersten Wahlgang kein Kandidat die "
+"Mehrheit der abgegebenen gültigen Stimmen erreicht, findet eine Stichwahl"
+" zwischen den Kandidaten statt, welche die beiden höchsten Stimmenzahlen "
+"erreicht haben."
+msgstr ""
+
+#: ../../source/index.rst:319 2695e245937040a5afecf42f488bedef
+msgid "(7) Aufgabenbereiche"
+msgstr ""
+
+#: ../../source/index.rst:320 ff3b546ba3f84098a8fb960b50325261
+msgid "Die Mitgliederversammlung ist zuständig für:"
+msgstr ""
+
+#: ../../source/index.rst:322 bd43615edeea451995b2d435616467c8
+msgid "die Wahl und Abberufung der Vorstandsmitglieder;"
+msgstr ""
+
+#: ../../source/index.rst:323 80096c89fc194b72b9aa649c73cb125a
+msgid "die Wahl der Kassenprüfer;"
+msgstr ""
+
+#: ../../source/index.rst:324 4a09b0f03dda46f6a1f7f21b86506ea3
+msgid ""
+"die Genehmigung des vom Vorstand aufgestellten Haushaltsplans für das "
+"nächste Geschäftsjahr;"
+msgstr ""
+
+#: ../../source/index.rst:325 6aeb0ac09fa5446595c7dcd0ae54e16f
+msgid "die Entgegennahme des Jahresberichts und die Entlastung des Vorstands;"
+msgstr ""
+
+#: ../../source/index.rst:326 2421af4e6eec4a138d8524c85c740b9a
+msgid ""
+"die Festsetzung der Höhe und der Fälligkeit des Jahresbeitrages "
+"(eventuell Auslagerung in Gebührenordnung)"
+msgstr ""
+
+#: ../../source/index.rst:327 04ae392f117043f89e0cb26d42a33980
+msgid ""
+"die Beschlussfassung über Satzungsänderungen und die Auflösung des "
+"Vereins."
+msgstr ""
+
+#: ../../source/index.rst:331 feeac23deb234e42bff872b382c61fff
+msgid "(8) Versammlungsleitung"
+msgstr ""
+
+#: ../../source/index.rst:332 28b3947c418a4388adfc6ca3039eddbc
+msgid ""
+"Die Mitgliederversammlung wird von dem 1. Vorsitzenden des Vorstandes, "
+"bei dessen Verhinderung von seinem Stellvertreter oder dem Schatzmeister "
+"geleitet. Ist keines dieser Vorstandsmitglieder anwesend, so bestimmt die"
+" Versammlung den Leiter mit einfacher Mehrheit der abgegebenen Stimmen. "
+"Der Versammlungsleiter bestimmt einen Protokollführer."
+msgstr ""
+
+#: ../../source/index.rst:339 f7cd5c2fbebf4746ae3bba917fc14361
+msgid "§ 9 Außerordentliche Mitgliederversammlung"
+msgstr ""
+
+#: ../../source/index.rst:340 d7ced7b8476e4d80979417a055b4c6e7
+msgid ""
+"Eine außerordentliche Mitgliederversammlung findet statt, wenn das "
+"Interesse des Vereins es erfordert oder wenn 1/5 der Mitglieder es "
+"schriftlich unter Angabe der Gründe beim Vorstand beantragt."
+msgstr ""
+
+#: ../../source/index.rst:345 34d27a9c707841c497029ef156b04cc3
+msgid "§ 10 Auflösung des Vereins"
+msgstr ""
+
+#: ../../source/index.rst:346 940fce93cd8c4a068c3d9f0d3812cb55
+msgid ""
+"Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall "
+"steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die K Desktop"
+" Environment e.V., die es unmittelbar und ausschließlich für "
+"gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden hat."
+msgstr ""
+
+#: ../../source/index.rst:352 ec4af948cfd2417cb5ed4e7ef62ba15a
+msgid "Zuletzt geändert von der Mitgliederversammlung am 17. September 2022."
+msgstr ""
+
