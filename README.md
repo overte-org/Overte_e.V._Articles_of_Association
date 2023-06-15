@@ -13,5 +13,5 @@ Update translation:
 Prebuild documentation:
 You can look at this document without needing to build it yourself.
 Updates are automatically built here:
-German https://buyanvr-organizational-code-draft.readthedocs.io/de/latest/
-English https://buyanvr-organizational-code-draft.readthedocs.io/en/latest/
+German https://satzung.overte.org/de/
+English https://satzung.overte.org/en/
