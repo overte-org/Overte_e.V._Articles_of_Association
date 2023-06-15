@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Overte e.V. Satzung'
-copyright = '2021-2022, Julian Groß'
+copyright = '2021-2023, Overte e.V.'
 author = 'Julian Groß'
 version = '1.1'
 release = '1.1.0'

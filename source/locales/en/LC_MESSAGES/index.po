@@ -1,6 +1,6 @@
 # Overte e.V. Satzung
-# Copyright (C) 2021-2022, Julian Groß
-# SPDX-License-Identifier: MIT
+# Copyright (C) 2021-2023, Overte e.V.
+# SPDX-License-Identifier: Apache-2.0
 # Julian Groß <julian.g@posteo.de>, 2021.
 #
 msgid ""
