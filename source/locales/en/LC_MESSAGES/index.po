@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte e.V. Satzung 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-03 13:21+0100\n"
-"PO-Revision-Date: 2022-12-03 13:23+0100\n"
+"POT-Creation-Date: 2023-09-16 23:20+0200\n"
+"PO-Revision-Date: 2023-09-16 23:22+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -16,22 +16,22 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Generated-By: Babel 2.10.1\n"
-"X-Generator: Poedit 3.2\n"
+"Generated-By: Babel 2.10.3\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #: ../../source/index.rst:4
 msgid "Contents:"
 msgstr "Inhalte:"
 
-#: ../../source/index.rst:2
+#: ../../source/index.rst:2 220fcbd314934414b4895732e148f2ed
 msgid "Overte e.V. Satzung"
 msgstr "Overte e.V. Articles of Association"
 
-#: ../../source/index.rst:11
+#: ../../source/index.rst:11 5a93277e6e864c5986403d6d06a22d75
 msgid "Erklärung von Begriffen"
 msgstr "Explaination of Terminology"
 
-#: ../../source/index.rst:13
+#: ../../source/index.rst:13 511f25d32c8b42428b93e139f8b9ad4f
 msgid ""
 "Freie Software, auch \"Open-Source Software\" genannt, im Sinn dieser Satzung "
 "sind Computerprogramme, die vom Urheber in nicht rückholbarer Weise der "
@@ -50,7 +50,7 @@ msgstr ""
 "for others and to improve the program and make these changes available for the "
 "common good."
 
-#: ../../source/index.rst:20
+#: ../../source/index.rst:20 f7b01b92fda04261b631f9a3d3bdd7be
 msgid ""
 "Entwicklung freier Software im Sinn dieser Satzung umfasst die Erforschung und "
 "Ausarbeitung der theoretischen Grundlagen und Konzepte sowie deren Erprobung "
@@ -62,7 +62,7 @@ msgstr ""
 "test by programming and test of free software which implement such concepts and "
 "basic principles."
 
-#: ../../source/index.rst:23
+#: ../../source/index.rst:23 2784dd2ccb474357a97d6388ca8ee76d
 msgid ""
 "Das \"Overte\" Software-Paket ist eine grafische Umgebung, die sowohl "
 "Infrastruktur für Programme als auch Anwenderprogramme inklusive Töne, Bilder, "
@@ -74,7 +74,7 @@ msgstr ""
 "translations. It is being developed as free software and is made available to "
 "the general public free of charge."
 
-#: ../../source/index.rst:27
+#: ../../source/index.rst:27 f0762664991b4f439243696d39878503
 msgid ""
 "Der Begriff \"Social-VR\" bezeichnet eine digitale dreidimensionale Umgebung in "
 "der Nutzer mit einander realitätsnahe Interagieren können."
@@ -82,15 +82,15 @@ msgstr ""
 "The term \"Social-VR\" describes a digital three-dimensional environment that "
 "its users can use to interact with each other close to reality."
 
-#: ../../source/index.rst:31
+#: ../../source/index.rst:31 0e08c10227384d3b87ff7026cd8c1698
 msgid "§ 1 Name, Sitz, Geschäftsjahr"
 msgstr "§ 1 Name, Registered Office, Financial Year"
 
-#: ../../source/index.rst:34
+#: ../../source/index.rst:34 7853a08f215a49609a681a512ad9414e
 msgid "(1) Name, Eintragung"
 msgstr "(1) Name, Register"
 
-#: ../../source/index.rst:35
+#: ../../source/index.rst:35 1e4cd35cb3a54eb691c5eb3c44b8101b
 msgid ""
 "Der Name des Vereins lautet „Overte“. Er soll in das Vereinsregister "
 "eingetragen werden. Nach der Eintragung führt er den Rechtsformzusatz „e.V.“ im "
@@ -100,31 +100,31 @@ msgstr ""
 "association register. It incorporates the legal form addition \"e.V.\" into its "
 "name after registration."
 
-#: ../../source/index.rst:39
+#: ../../source/index.rst:39 b5180a7a9b4d45c788d83986eb062efc
 msgid "(2) Geschäftsjahr"
 msgstr "(2) Financial Year"
 
-#: ../../source/index.rst:40
+#: ../../source/index.rst:40 28922c3e71e2462fb30927daa5a4f69b
 msgid "Das Geschäftsjahr ist das Kalenderjahr."
 msgstr "The financial year is the calendar year."
 
-#: ../../source/index.rst:43
+#: ../../source/index.rst:43 c6b6dbd545a44cfdbdfc9e8533de8cf5
 msgid "(3) Sitz"
 msgstr "(3) Registered Office"
 
-#: ../../source/index.rst:44
+#: ../../source/index.rst:44 a40c4c1e6f8a41ebbc0f3dabed42e36e
 msgid "Der Verein hat seinen Sitz in Paderborn."
 msgstr "The Association’s registered offices are located in Paderborn."
 
-#: ../../source/index.rst:48
+#: ../../source/index.rst:48 ef8c5dca856e41b39b82ac7e6df7f132
 msgid "§ 2 Zweck des Vereins, Gemeinnützigkeit"
 msgstr "§ 2 Purpose of the Association, Non-profit Association"
 
-#: ../../source/index.rst:51
+#: ../../source/index.rst:51 79041d9726ef433ab299398aa2079b88
 msgid "(1) Steuerbegünstigte Zwecke"
 msgstr "(1) Tax-privileged purposes"
 
-#: ../../source/index.rst:52
+#: ../../source/index.rst:52 9b306cb381614a89b5c64f8d32145fc8
 msgid ""
 "Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im "
 "Sinne des Abschnitts „Steuerbegünstigte Zwecke„ der Abgabenordnung."
@@ -133,11 +133,11 @@ msgstr ""
 "profit activities as stipulated in section „Steuerbegünstigte Zwecke„ in the "
 "\"Abgabenordnung\"."
 
-#: ../../source/index.rst:56
+#: ../../source/index.rst:56 b3e9d567597e4b618ea3f7e941f3649e
 msgid "(2) Konkreter Förderzweck"
 msgstr "(2) Specific purpose"
 
-#: ../../source/index.rst:57
+#: ../../source/index.rst:57 9a9ec6155be1433bac5813d733e024c8
 msgid ""
 "Zweck des Vereins ist die Förderung und Verbreitung freier Social-VR-Software "
 "im Sinne Freier Software unter besonderer Berücksichtigung des Programmpakets "
@@ -149,15 +149,15 @@ msgstr ""
 "particular, to promote the free exchange of knowledge and equality of "
 "opportunity in accessing software as well as education, science and research."
 
-#: ../../source/index.rst:62
+#: ../../source/index.rst:62 91e030bf64e244208e9dd635861aa695
 msgid "(3) Maßnahmen"
 msgstr "(3) Measures"
 
-#: ../../source/index.rst:63
+#: ../../source/index.rst:63 cf844f9d4b3341de966388fe0a435404
 msgid "Der Satzungszweck wird verwirklicht insbesondere durch:"
 msgstr "The aim of the articles of association is to promote:"
 
-#: ../../source/index.rst:65
+#: ../../source/index.rst:65 c20d6cbf0e0349ab896f1d22bc7664c8
 msgid ""
 "die Förderung der Bildung, des Meinungsaustauschs und der Zusammenarbeit von "
 "Anwendern, Entwicklern und Forschern"
@@ -165,7 +165,7 @@ msgstr ""
 "education, exchange of opinions and cooperation between users, developers and "
 "researchers"
 
-#: ../../source/index.rst:67
+#: ../../source/index.rst:67 a7c4064da78a455290b38e66ce7930be
 msgid ""
 "Forschung und Diskussion über die Auswirkungen freier Social-VR-Software und "
 "den Gedanken Freier Software auf Gesellschaft und Wissenschaft"
@@ -173,11 +173,11 @@ msgstr ""
 "research and debate on the impact of free desktop software and the notion of "
 "free software on society and science"
 
-#: ../../source/index.rst:70
+#: ../../source/index.rst:70 cc828f1d9d9a4c0480a710ef98e18acd
 msgid "die Weiterentwicklung und Forschung an freier Social-VR-Software"
 msgstr "continuous development and research into free Social-VR software"
 
-#: ../../source/index.rst:72
+#: ../../source/index.rst:72 01cda2eaa3974ea183d819a7fb3aee99
 msgid ""
 "die Bereitstellung freier Social-VR-Software, unterstützende Bilder, Töne, 3D-"
 "Modelle, Daten und Dokumentation sowie Förderung deren Verfügbarkeit und die "
@@ -187,7 +187,7 @@ msgstr ""
 "models, data and documentation and the compilation and distribution of relevant "
 "material"
 
-#: ../../source/index.rst:75
+#: ../../source/index.rst:75 9be25e6a344843c5b03574ab12193c69
 msgid ""
 "Beiträge zur sachkundigen Information der Öffentlichkeit im Tätigkeitsbereich "
 "des Vereins und Teilnahme an Messen und Kongressen um die Informationen einem "
@@ -197,7 +197,7 @@ msgstr ""
 "the association’s field of activity and presence at trade fares and congresses, "
 "making information available to a broad spectrum of users."
 
-#: ../../source/index.rst:78
+#: ../../source/index.rst:78 cf00d088bf84415695283f695dccacd8
 msgid ""
 "Beratung und Unterstützung von Bildungseinrichtungen bei der Implementierung "
 "freier Social-VR-Software"
@@ -205,11 +205,11 @@ msgstr ""
 "providing educational institutions with consultation and support towards "
 "implementing free Social-VR software"
 
-#: ../../source/index.rst:81
+#: ../../source/index.rst:81 fddc95729e8e47dfa4c22852be69d0de
 msgid "(4) Gemeinnützigkeit"
 msgstr "(4) Non-profit association"
 
-#: ../../source/index.rst:82
+#: ../../source/index.rst:82 4c5c82ccdfac492da21c9ec36533167a
 msgid ""
 "Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie "
 "eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die "
@@ -225,15 +225,15 @@ msgstr ""
 "to favour somebody through association expenditures, which do not serve the "
 "associations purpose or are disproportionately high."
 
-#: ../../source/index.rst:89
+#: ../../source/index.rst:89 5da66f2d9ecd488ba54bfa014f95e8c2
 msgid "§ 3 Erwerb der Mitgliedschaft, Mitgliedsbeiträge"
 msgstr "§ 3 Acquisition of Membership, Membership Fees"
 
-#: ../../source/index.rst:92
+#: ../../source/index.rst:92 aef0051c5d874153b7ca1727470c0fa7
 msgid "(1) Art der Mitglieder"
 msgstr "(1) Types of Members"
 
-#: ../../source/index.rst:93
+#: ../../source/index.rst:93 dd9aee027cd84347a8717da8a086360f
 msgid ""
 "Mitglied des Vereins kann jede natürliche Person oder juristische Person "
 "werden. Juristische Personen benennen eine natürliche Person als Vertreter zur "
@@ -242,7 +242,7 @@ msgstr ""
 "Any natural person or legal body may become a member. Legal bodies chose a "
 "representative to exercise the remaining rights and duties."
 
-#: ../../source/index.rst:96
+#: ../../source/index.rst:96 793df3b2cf21495cbf7c6a795ba84848
 msgid ""
 "Ehrenmitglieder werden von der Mitgliederversammlung benannt. Sie sind von der "
 "Beitragspflicht befreit. In der Mitgliederversammlung haben diese eine Stimme."
@@ -250,7 +250,7 @@ msgstr ""
 "The general assembly names honorary members. Honorary members are except from "
 "membership fees. They hold one vote in the general assembly."
 
-#: ../../source/index.rst:99
+#: ../../source/index.rst:99 bbb5d8ce0f544b3a943667e77098805b
 msgid ""
 "Fördernde Mitglieder sind natürliche und juristische Personen, die den "
 "Vereinszweck und die Vereinsziele insbesondere durch einen finanziellen oder "
@@ -261,7 +261,7 @@ msgstr ""
 "associations purpose and goals especially through financial or material "
 "contribution. They may attend the general assembly but may not vote."
 
-#: ../../source/index.rst:103
+#: ../../source/index.rst:103 635b28430a63426c86becb9ce802f8e9
 msgid ""
 "Pseudonyme Mitglieder sind Mitglieder deren reale Identität nur dem Vorstand "
 "bekannt sind. Der Vorstand verpflichtet sich ihre reale Identität geheim zu "
@@ -273,22 +273,22 @@ msgstr ""
 "the general assembly. They will only be granted membership under special "
 "circumstances. Such circumstances include"
 
-#: ../../source/index.rst:107
+#: ../../source/index.rst:107 ec4c1abb10ef4a7ca947ae5363207b73
 msgid ""
 "bekannte negative Haltung des Arbeitgebers zur dem Verein oder seinen Zielen;"
 msgstr ""
 "known negative attitude of the members employee towards the association or its "
 "goals;"
 
-#: ../../source/index.rst:108
+#: ../../source/index.rst:108 f81be4005e544e4eac4463247032340e
 msgid "Furcht vor Verfolgung."
 msgstr "fear of persecution."
 
-#: ../../source/index.rst:111
+#: ../../source/index.rst:111 1b97145d93b041edacbb3c306bb37602
 msgid "(2) Erwerb"
 msgstr "(2) Aquisition"
 
-#: ../../source/index.rst:112
+#: ../../source/index.rst:112 5bdfa4c438014683b81ac54105b2eb7f
 msgid ""
 "Der Antrag auf Mitgliedschaft ist schriftlich oder per E-Mail an den Vorstand "
 "zu stellen. Der Vorstand entscheidet über die Aufnahme nach freiem Ermessen. "
@@ -304,11 +304,11 @@ msgstr ""
 "one month after access to the negative decision notification. The next ordinary "
 "general assembly will decide over the complaint."
 
-#: ../../source/index.rst:118
+#: ../../source/index.rst:118 14bd80b9ee64431f926f03c90e2bc54b
 msgid "(3) Beiträge"
 msgstr "(3) Fees"
 
-#: ../../source/index.rst:119
+#: ../../source/index.rst:119 f0905a0fdc7c4d9b878b9183563b50ba
 msgid ""
 "Mitglieder bezahlen einen Jahresbeitrag. Über die Höhe und Fälligkeit des "
 "Beitrags beschließt die Mitgliederversammlung."
@@ -316,40 +316,52 @@ msgstr ""
 "Members pay an annual fee. The size and the due date of the fee is decided by "
 "the general assembly."
 
-#: ../../source/index.rst:123
+#: ../../source/index.rst:122 ca5c1c48b6e84d668b0ee10f3a180537
+msgid "(3.1) Nichtzahlung von Beiträgen"
+msgstr "(3.1) Non-payment of fees"
+
+#: ../../source/index.rst:123 5e2e47fa33a44bbbb40bc57d61cb1e3d
+msgid ""
+"Bei Beitragsrückstand ruhen die Rechte eines Mitgliedes bis der Rückstand "
+"beglichen wurde. Rückständige Beiträge werden nicht eingetrieben."
+msgstr ""
+"In the event that membership fees are not paid, the rights of a member shall be "
+"suspended until the fees have been paid."
+
+#: ../../source/index.rst:128 d794189ffefa4f73ad90ee3d8b032053
 msgid "§ 4 Beendigung der Mitgliedschaft"
 msgstr "§ 4 Membership Termination"
 
-#: ../../source/index.rst:126
+#: ../../source/index.rst:131 4d2ac1f580184ed48548530ba287d320
 msgid "(1) Grund"
 msgstr "(1) Reason"
 
-#: ../../source/index.rst:127
+#: ../../source/index.rst:132 192cb0b0c4894461b35eba0cc85edb64
 msgid "Die Mitgliedschaft endet"
 msgstr "The membership ends"
 
-#: ../../source/index.rst:129
+#: ../../source/index.rst:134 94bc6b9e6de74bba8507a99ebe1e4dfd
 msgid ""
 "bei natürlichen Personen durch deren Tod oder Verlust der Geschäftsfähigkeit;"
 msgstr "with natural people through their death or loss of their legal capacity;"
 
-#: ../../source/index.rst:130
+#: ../../source/index.rst:135 f6b4715275e749afb99b6dcd847f7544
 msgid "bei juristischen Personen durch Verlust der Rechtsfähigkeit;"
 msgstr "with legal bodies through loss of their legal capacity;"
 
-#: ../../source/index.rst:131
+#: ../../source/index.rst:136 43c98be21ceb4e6da5c9c9902e465b22
 msgid "durch Austritt;"
 msgstr "through resignation;"
 
-#: ../../source/index.rst:132
+#: ../../source/index.rst:137 95776c5c8d3d47faab4cc1eb343058cf
 msgid "durch Ausschluss."
 msgstr "through exclusion."
 
-#: ../../source/index.rst:135
+#: ../../source/index.rst:140 16c431bb55d643b691d99b53bd0a5695
 msgid "(2) Austritt"
 msgstr "(2) Resignation"
 
-#: ../../source/index.rst:136
+#: ../../source/index.rst:141 b4b29749457649b2b6757805c028542d
 msgid ""
 "Der Austritt eines Mitgliedes erfolgt durch schriftliche Erklärung oder per E-"
 "Mail gegenüber dem Vorstand. Der Austritt ist nur mit einer Frist von einem "
@@ -359,11 +371,11 @@ msgstr ""
 "The resignation is only possible within a deadline of one month towards the "
 "31th December of a financial year."
 
-#: ../../source/index.rst:140
+#: ../../source/index.rst:145 48f029125c434e25819fa23d2827a0cf
 msgid "(3) Ausschluss"
 msgstr "(3) Exclusion"
 
-#: ../../source/index.rst:141
+#: ../../source/index.rst:146 5d7f7f1043944c6398d71e21edaa0179
 msgid ""
 "Ein Mitglied kann durch Beschluss des Vorstands mit sofortiger Wirkung aus "
 "wichtigem Grund aus dem Verein ausgeschlossen werden, wenn ein wichtiger Grund "
@@ -374,7 +386,7 @@ msgstr ""
 "reason makes the continuation of the membership seem unreasonable towards the "
 "association or its members."
 
-#: ../../source/index.rst:144
+#: ../../source/index.rst:149 55deff3152244ad09071adf837131051
 msgid ""
 "Ein solcher wichtiger Grund liegt insbesondere dann vor, wenn das Mitglied "
 "trotz Mahnung länger als sechs Monate mit seiner Beitragszahlung im Rückstand "
@@ -384,11 +396,11 @@ msgstr ""
 "membership fee for longer than six months despite warning, or when the member "
 "acted grossly repugnant towards the associations interests."
 
-#: ../../source/index.rst:147
+#: ../../source/index.rst:152 6698e972c296496dbd39e9f6556dcffc
 msgid "Dem Mitglied ist vor seinem Ausschluss Gelegenheit zur Anhörung zu geben."
 msgstr "The member gets an opportunity to a hearing before being excluded."
 
-#: ../../source/index.rst:149
+#: ../../source/index.rst:154 bc1972f919da478f9044ade1e80d2a16
 msgid ""
 "Das Mitglied kann gegen den Ausschluss die nächste ordentliche "
 "Mitgliederversammlung nach dem Zugang der Ausschlusserklärung anrufen, die dann "
@@ -397,11 +409,11 @@ msgstr ""
 "The member may contact the next ordinary general assembly since arrival of the "
 "exclusion statement which will make a final decision."
 
-#: ../../source/index.rst:152
+#: ../../source/index.rst:157 e6212ca3fde1421b92fce4df8999afe3
 msgid "(4) Pflichten der Mitglieder"
 msgstr "(4) Duties of Members"
 
-#: ../../source/index.rst:153
+#: ../../source/index.rst:158 085b7679ba4844469ed1323456e71c25
 msgid ""
 "Mit dem Antrag auf Mitgliedschaft erkennen die Mitglieder den Inhalt der "
 "Satzung und der sonstigen Vereinsordnungen an. Die Mitglieder sind "
@@ -413,7 +425,7 @@ msgstr ""
 "of the association and to follow decisions and orders of the associations "
 "organs."
 
-#: ../../source/index.rst:157
+#: ../../source/index.rst:162 088ac845a7104dcca034fcb7755fe9cb
 msgid ""
 "Die Mitglieder sind verpflichtet, dem Vorstand eine ladungsfähige postalische "
 "Anschrift sowie eine E-Mail-Adresse mitzuteilen und den Vorstand über jede "
@@ -422,31 +434,31 @@ msgstr ""
 "Members are obliged to communicate the board their postal address and email "
 "address as well as inform the board about any change of their name or address."
 
-#: ../../source/index.rst:162
+#: ../../source/index.rst:167 cfa0604b62db4fe89fba9fbe1da85b13
 msgid "§ 5 Die Organe des Vereins"
 msgstr "§ 5 Organs of the Association"
 
-#: ../../source/index.rst:163
+#: ../../source/index.rst:168 4ab77d71d8e14c75a0de30fe76d2a418
 msgid "Die Organe des Vereins sind"
 msgstr "The associations organs are"
 
-#: ../../source/index.rst:165
+#: ../../source/index.rst:170 87a6e379966843ee9087fe4406d6520c
 msgid "die Mitgliederversammlung sowie"
 msgstr "the general assembly and"
 
-#: ../../source/index.rst:166
+#: ../../source/index.rst:171 43d8da8b82474c509d1a92c9dd0ca2ae
 msgid "der Vorstand."
 msgstr "the board."
 
-#: ../../source/index.rst:170
+#: ../../source/index.rst:175 53ff6d300eb144dbb05bc65671a0920d
 msgid "§ 6 Der Vorstand"
 msgstr "§ 6 The Board"
 
-#: ../../source/index.rst:173
+#: ../../source/index.rst:178 71d42a90b0d24c2aaea99ce636727f4f
 msgid "(1) Anzahl der Vorstandsmitglieder"
 msgstr "(1) Count of Boardmembers"
 
-#: ../../source/index.rst:174
+#: ../../source/index.rst:179 0ed75a6edd504515900d8c8cb40f3f2e
 msgid ""
 "Der Vorstand besteht aus mindestens 3 und maximal 7 Personen, ihm können nur "
 "natürliche Personen angehören."
@@ -454,7 +466,7 @@ msgstr ""
 "The board consists of a minium of 3 and a maximum of 7 people, only natural "
 "people can be part of the board."
 
-#: ../../source/index.rst:176
+#: ../../source/index.rst:181 3f9caca6caf54277a32d77785100eb75
 msgid ""
 "Der Vorstand wählt aus seiner Mitte einen Vorsitzenden und zwei Stellvertreter. "
 "Einer der Stellvertreter ist der Schatzmeister."
@@ -462,11 +474,11 @@ msgstr ""
 "The board elects a chairman and two deputies out of its own members. One of the "
 "deputies is the treasurer."
 
-#: ../../source/index.rst:179
+#: ../../source/index.rst:184 09cd2a76431f41dba18bca7ebc04f7ec
 msgid "(2) Vertretungsberechtigung"
 msgstr "(2) Authorisation of representation"
 
-#: ../../source/index.rst:180
+#: ../../source/index.rst:185 8a71a7d0fe7541908c5f8f9b74b599d0
 msgid ""
 "Vertretungsberechtigt ist je ein Vorstandsmitglied. Durch Beschluss der "
 "Mitgliederversammlung können Vorstandsmitglieder von den Beschränkungen des § "
@@ -475,11 +487,11 @@ msgstr ""
 "Each board member is authorized to represent. Board members may be exempt from "
 "the limitations of § 181 BGB if decided by the general assembly."
 
-#: ../../source/index.rst:184
+#: ../../source/index.rst:189 7982ba29c225468d897f93844af678f2
 msgid "(3) Aufgaben"
 msgstr "(3) Duties"
 
-#: ../../source/index.rst:185
+#: ../../source/index.rst:190 f2c8a3bc40954ea895e8122845131ad9
 msgid ""
 "Der Vorstand führt die Geschäfte und vertritt den Verein in sämtlichen "
 "Angelegenheiten gerichtlich und außergerichtlich, soweit diese nicht eines "
@@ -488,43 +500,43 @@ msgstr ""
 "The board decides about all matters pertaining to the association, unless a "
 "decision of the General Assembly is required."
 
-#: ../../source/index.rst:188
+#: ../../source/index.rst:193 2d9bfb850b0c43fab840385b658566e8
 msgid "Darüber hinaus hat er insbesondere folgende Aufgaben:"
 msgstr "Above that, the board has the following duties:"
 
-#: ../../source/index.rst:190
+#: ../../source/index.rst:195 d587f61458ae41a8b82f4b55e91b39de
 msgid ""
 "Vorbereitung und Einberufung der Mitgliederversammlung; Aufstellung der "
 "Tagesordnung;"
 msgstr "Preparation and convocation of the general assembly; Planning the agenda;"
 
-#: ../../source/index.rst:191
+#: ../../source/index.rst:196 6a8648b2017046eface82f07e35cfe54
 msgid "Ausführung der Beschlüsse der Mitgliederversammlung;"
 msgstr "Implementing the decisions taken by the general assembly;"
 
-#: ../../source/index.rst:192
+#: ../../source/index.rst:197 14d3b43699844d218549a3544baf621b
 msgid "Führen der Bücher;"
 msgstr "Accounting;"
 
-#: ../../source/index.rst:193
+#: ../../source/index.rst:198 7f5b745e842f40cbb2e9d9417a464405
 msgid ""
 "Erstellung des Haushaltsplans, des Jahresabschlusses und des Jahresberichtes;"
 msgstr ""
 "Creation of a budget plan; annual financial statements, and the annual report;"
 
-#: ../../source/index.rst:194
+#: ../../source/index.rst:199 993f5c9430f24e18bea393ee1a50c96a
 msgid "Abschluss u. Kündigung von Dienst- u. Arbeitsverträgen;"
 msgstr "Close and terminate contracts;"
 
-#: ../../source/index.rst:195
+#: ../../source/index.rst:200 a2d39f91d5bc465c902d72cb0d27cc43
 msgid "Ausübung des Weisungsrechtes gegenüber Mitarbeitern;"
 msgstr "Exercise its right of instruction towards employees;"
 
-#: ../../source/index.rst:196
+#: ../../source/index.rst:201 296eee5db84448c2a5f0e19a6a25b16c
 msgid "Beschlussfassung über die Aufnahme und den Ausschluss von Mitgliedern;"
 msgstr "Decision over acceptance and exclusions of members;"
 
-#: ../../source/index.rst:197
+#: ../../source/index.rst:202 0635492e38414faeb4f662058459533f
 msgid ""
 "Der Vorstand kann Satzungsänderungen beschließen, die durch das Vereinsregister "
 "oder die Finanzbehörde verlangt wurden."
@@ -532,30 +544,30 @@ msgstr ""
 "The board may change the articles of association according to demands by the "
 "German \"Vereinsregister\" or relevant German \"Finanzbehörde\"."
 
-#: ../../source/index.rst:200
+#: ../../source/index.rst:205 5391510f4d1c47aaac706ac44f332f98
 msgid "Im Innenverhältnis gilt: Der Vorstand darf nicht:"
 msgstr "Internally applies: The board may not decide over:"
 
-#: ../../source/index.rst:203
+#: ../../source/index.rst:208 895f8ca9dc9c44de837c7d6cd3b24c3a
 msgid "über den An- und Verkauf sowie die Belastung von Grundbesitz,"
 msgstr "purchase, sale, and burden of real estate,"
 
-#: ../../source/index.rst:204
+#: ../../source/index.rst:209 f93241023b754b51a0da9485bda0751b
 msgid "die finanzielle Beteiligung an Gesellschaften sowie"
 msgstr "the financial participation in companies, and"
 
-#: ../../source/index.rst:205
+#: ../../source/index.rst:210 308bac66bd8b4c218c4a220cf03c5b7e
 msgid ""
 "die Aufnahme von Darlehen ab EURO 10.000,-, entscheiden. Dies bleibt der "
 "Mitgliederversammlung vorbehalten."
 msgstr ""
 "taking out loans above EURO 10,000.-. This is reserved to the general assembly."
 
-#: ../../source/index.rst:209
+#: ../../source/index.rst:214 4c61afe9a4634487a1ceb124d0cf276a
 msgid "(4) Wahl"
 msgstr "(4) Election"
 
-#: ../../source/index.rst:210
+#: ../../source/index.rst:215 3fea1ce72b6d4358a133f53ed484f2cb
 msgid ""
 "Die Vorstandsmitglieder werden von der Mitgliederversammlung für die Dauer von "
 "einem Jahr gewählt. Wählbar sind nur Vereinsmitglieder. Wiederwahl ist möglich. "
@@ -572,7 +584,7 @@ msgstr ""
 "the minimum number of board members is elected, each following vote gains the "
 "additional option to vote for leaving the seat unoccupied."
 
-#: ../../source/index.rst:215
+#: ../../source/index.rst:220 cc6f1604b2724015931c9bd4f4e50dcb
 msgid ""
 "Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit "
 "so lange im Amt, bis ihre Nachfolger gewählt sind."
@@ -580,7 +592,7 @@ msgstr ""
 "The incumbent board members stay in office even after their term of office has "
 "ended until their successors are elected."
 
-#: ../../source/index.rst:217
+#: ../../source/index.rst:222 718b2b2daf314cbe84fe1dcb77f8ad01
 msgid ""
 "Scheidet ein Vorstandsmitglied vor Ablauf der Amtszeit aus, können die "
 "verbliebenen Vorstandsmitglieder bis zur nächsten Mitgliederversammlung ein "
@@ -591,26 +603,28 @@ msgstr ""
 "members may co-opt a replacement member until the next general assembly. A "
 "maximum of two board members may be co-opted."
 
-#: ../../source/index.rst:222
+#: ../../source/index.rst:227 a0c2d880e0fb4402b2077b9fcd208142
 msgid "(5) Vergütung"
 msgstr "(5) Compensation"
 
-#: ../../source/index.rst:223
+#: ../../source/index.rst:228 d751f715327b4b00ac595f74e80533bb
 msgid ""
 "Mitglieder des Vorstands können darüber hinaus für ihre Tätigkeit eine "
 "angemessene Vergütung erhalten. Die Vergütung für den Zeitaufwand bedarf dem "
 "Grunde und der Höhe nach der vorherigen Beschlussfassung der "
-"Mitgliederversammlung."
+"Mitgliederversammlung. Ausnahmen bestehen für die Ehrenamtspauschale und die "
+"Übungsleiterpauschale über die der Vorstand selbst entscheidet."
 msgstr ""
 "The board members may be compensated appropriately for their work. The "
 "compensation for time spent requires the reason and amount previously decided "
-"by the general assembly."
+"by the general assembly. Exception to this rule are the “Ehrenamtspauschale” "
+"and “Übungsleiterpauschale”, which are decided by the board itself."
 
-#: ../../source/index.rst:227
+#: ../../source/index.rst:233 4424edea482347b992d2578bc9d72af3
 msgid "(6) Beschlussfassung"
 msgstr "(6) Decision making"
 
-#: ../../source/index.rst:228
+#: ../../source/index.rst:234 f934a5eaaaf2417497451f2f25afc54a
 msgid ""
 "Der Vorstand fasst seine Beschlüsse in Vorstandssitzungen, die von dem 1. "
 "Vorsitzenden, bei dessen Verhinderung von einem der Stellvertreter, in Textform "
@@ -621,7 +635,7 @@ msgstr ""
 "chairman or by one of their deputies in case the chairman is unavailable. A "
 "notice period of one week is always to be followed."
 
-#: ../../source/index.rst:231
+#: ../../source/index.rst:237 7016890661794aaeb633bc728193682c
 msgid ""
 "Die Vorstandssitzungen können als virtuelles Treffen abgehalten werden. Das "
 "virtuelle Vorstandtreffen erfolgt innerhalb der Overte Software oder alternativ "
@@ -632,7 +646,7 @@ msgstr ""
 "inside the Overte software or alternatively through video or telephone "
 "conference."
 
-#: ../../source/index.rst:234
+#: ../../source/index.rst:240 9ab6e1a87bcc4a5bb053ba1147df6f00
 msgid ""
 "Der Vorstand ist beschlussfähig, wenn mindestens drei Vorstandsmitglieder, "
 "darunter der 1. Vorsitzende oder einer seiner Stellvertreter, anwesend sind. "
@@ -643,11 +657,11 @@ msgstr ""
 "one of his deputies are present. A majority vote is used for decision making. "
 "In case of a draw the chairmans vote decides."
 
-#: ../../source/index.rst:239
+#: ../../source/index.rst:245 bf76d504289d4727b88efb195e841fd2
 msgid "(7) Haftungsbeschränkung"
 msgstr "(7) Limitation of liability"
 
-#: ../../source/index.rst:240
+#: ../../source/index.rst:246 dad6d652b0b047cd802f714bca8e7939
 msgid ""
 "Die Vorstandsmitglieder haften dem Verein gegenüber nur für vorsätzliches oder "
 "grob fahrlässiges Verhalten. Werden Vorstandsmitglieder aufgrund ihrer "
@@ -659,11 +673,11 @@ msgstr ""
 "The association will remove a board members liability towards third parties as "
 "long as the board member didn't act deliberate or grossly negligent."
 
-#: ../../source/index.rst:247
+#: ../../source/index.rst:253 f5e45342675b47028f96df273123bb7a
 msgid "§ 7 Kassenprüfung"
 msgstr "§ 7 Financial audit"
 
-#: ../../source/index.rst:249
+#: ../../source/index.rst:255 54b7e0863878451281c648a9fb1cbec6
 msgid ""
 "Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine Person zu "
 "Kassenprüfer. Dieser darf nicht Vorstandsmitglied sein. Wiederwahl ist "
@@ -674,7 +688,7 @@ msgstr ""
 "members cannot be elected as auditors. Reelection is allowed. The audit will be "
 "skipped if no auditor is found."
 
-#: ../../source/index.rst:252
+#: ../../source/index.rst:258 e886317a02bb402198aa8142110ee3fc
 msgid ""
 "Der Kassenprüfer hat die Kasse des Vereins einschließlich der Bücher und Belege "
 "mindestens einmal im Geschäftsjahr sachlich und rechnerisch zu prüfen und dem "
@@ -684,7 +698,7 @@ msgstr ""
 "and arithmetically at least once per fiscal year and are to file reports "
 "towards the board."
 
-#: ../../source/index.rst:255
+#: ../../source/index.rst:261 9b7e9acc63794a4a8414d9da685f8a94
 msgid ""
 "Der Kassenprüfer erstattet der Mitgliederversammlung einen Prüfungsbericht und "
 "beantragt bei ordnungsgemäßer Führung der Kassengeschäfte die Entlastung des "
@@ -694,13 +708,13 @@ msgstr ""
 "exonerate the treasurer and remaining board members if they did their "
 "accounting properly."
 
-#: ../../source/index.rst:258
+#: ../../source/index.rst:264 d46abd398e33455d931c649fa8b36647
 msgid ""
 "Der Kassenprüfer nimmt seine Aufgaben gewissenhaft und unparteiisch wahr und "
 "ist zur Verschwiegenheit verpflichtet."
 msgstr "Auditors work conscientious and impartial and obliged to secrecy."
 
-#: ../../source/index.rst:260
+#: ../../source/index.rst:266 80d6fcc2d8aa4d7c873dedf7c6308322
 msgid ""
 "Der Vorstand ist verpflichtet, dem Kassenprüfer die zur Prüfung erforderlichen "
 "Unterlagen zugänglich zu machen und die erforderlichen Auskünfte zu erteilen."
@@ -708,23 +722,23 @@ msgstr ""
 "The board is obliged to supplying the auditor with all needed documents and "
 "information."
 
-#: ../../source/index.rst:265
+#: ../../source/index.rst:271 f0fc4d85ba81470099c0a19b66cba434
 msgid "§ 8 Ordentliche Mitgliederversammlung"
 msgstr "§ 8 Ordinary General Assembly"
 
-#: ../../source/index.rst:268
+#: ../../source/index.rst:274 34a5a95734454d518a0bcdafcbc790bb
 msgid "(1) Häufigkeit"
 msgstr "(1) Frequency"
 
-#: ../../source/index.rst:269
+#: ../../source/index.rst:275 7a37731a35fc4e0c9d640e934302a1c0
 msgid "Die Mitgliederversammlung findet mindestens einmal jährlich statt."
 msgstr "The general assembly takes place at least once a year."
 
-#: ../../source/index.rst:272
+#: ../../source/index.rst:278 95a16e89df054d048741e9e5c065bc74
 msgid "(2) Präsenzversammlung und virtuelle Mitgliederversammlung"
 msgstr "(2) Real-world assembly and virtual assembly"
 
-#: ../../source/index.rst:273
+#: ../../source/index.rst:279 f1a5eb1f80294a5482e41096f564338a
 msgid ""
 "Die Mitgliederversammlung kann als Präsenzversammlung oder als virtuelle "
 "Mitgliederversammlung abgehalten werden. Zur Präsenzversammlung treffen sich "
@@ -737,7 +751,7 @@ msgstr ""
 "virtual general assembly happens within the Overte software or alternatively "
 "through video or telephone conference."
 
-#: ../../source/index.rst:278
+#: ../../source/index.rst:284 78b77a98ba914dceafd51b7ed5a1d1cb
 msgid ""
 "Eine Kombination von Präsenzversammlung und virtueller Mitgliederversammlung "
 "ist möglich, indem den Mitglieder die Möglichkeit eröffnet wird, an der "
@@ -746,7 +760,7 @@ msgstr ""
 "A combination of present and virtual assembly is possible, through allowing "
 "members to participate using video or telephone conference."
 
-#: ../../source/index.rst:281
+#: ../../source/index.rst:287 05ce887478fd4d7a961e027ee7ca7364
 msgid ""
 "Der Vorstand entscheidet über die Form der Mitgliederversammlung und teilt "
 "diese in der Einladung zur Mitgliederversammlung mit. Lädt der Vorstand zu "
@@ -758,11 +772,11 @@ msgstr ""
 "assembly invitations. If the board invites to a virtual assembly, it shares the "
 "data needed to attend it at least one hour before the assembly via E-Mail."
 
-#: ../../source/index.rst:286
+#: ../../source/index.rst:292 6d85a88434c3491a9d2998a3d154fc95
 msgid "(3) Einberufung und Tagesordnung"
 msgstr "(3) Summoning and agenda"
 
-#: ../../source/index.rst:287
+#: ../../source/index.rst:293 7be3ea014f9f4f7292a29bbc9701c9aa
 msgid ""
 "Die Einberufung der Mitgliederversammlung erfolgt schriftlich oder per E-Mail "
 "durch den Vorstand unter Angabe der Tagesordnung mit einer Einladungsfrist von "
@@ -776,7 +790,7 @@ msgstr ""
 "considered received if it is addressed towards the last address given the "
 "organization by the member."
 
-#: ../../source/index.rst:292
+#: ../../source/index.rst:298 0487092ff9e44f1a9633769b25b82ba2
 msgid ""
 "Anträge zur Ergänzung der Tagesordnung können von jedem Mitglied eingebracht "
 "werden. Sie müssen eine Woche vor der Versammlung dem Vorstand schriftlich oder "
@@ -788,21 +802,21 @@ msgstr ""
 "reasoning a week before the assembly. The assemblies leader has to announce the "
 "addition to the agenda at the start of the assembly."
 
-#: ../../source/index.rst:297
+#: ../../source/index.rst:303 a38bf56121934341bfeffc8819ee931a
 msgid "(4) Beschlussfähigkeit"
 msgstr "(4) Quorum"
 
-#: ../../source/index.rst:298
+#: ../../source/index.rst:304 9dc467b43ff74bd8b1e18c7f26fc688d
 msgid ""
 "Die Mitgliederversammlung ist unabhängig von der Anzahl der erschienenen "
 "Mitglieder beschlussfähig."
 msgstr "The general assembly is quorate regardless of the amount of participants."
 
-#: ../../source/index.rst:301
+#: ../../source/index.rst:307 c84028bf3420418badddc7adf2952f55
 msgid "(5) Beschlussfassung"
 msgstr "(5) Decision making"
 
-#: ../../source/index.rst:302
+#: ../../source/index.rst:308 b330cbc8a2d344fdb6c6aedd43f41c15
 msgid ""
 "Die Beschlüsse werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst; "
 "bei Stimmengleichheit entscheidet der 1. Vorsitzende. Stimmenthaltungen gelten "
@@ -812,7 +826,7 @@ msgstr ""
 "chairmans vote decides during a draw. Abstention from voting counts as not "
 "submitted vote."
 
-#: ../../source/index.rst:305
+#: ../../source/index.rst:311 d7edc38d7d7a434cbb02b3d7384d0c1f
 msgid ""
 "Zur Änderung der Satzung und zur Auflösung des Vereins ist eine Mehrheit von "
 "2/3 der abgegebenen Stimmen erforderlich."
@@ -820,7 +834,7 @@ msgstr ""
 "To change the articles of association or to dissolve the association a majority "
 "of 2/3 of submitted votes is necessary."
 
-#: ../../source/index.rst:307
+#: ../../source/index.rst:313 38f99be26a914a69bc8066ac5d0dcd44
 msgid ""
 "Jedes Mitglied hat eine Stimme. Das Stimmrecht kann nur persönlich oder für ein "
 "Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt werden."
@@ -828,7 +842,7 @@ msgstr ""
 "Every member has one vote. Voting rights may only be exercised in person or by "
 "another member through a written power of attorney."
 
-#: ../../source/index.rst:310
+#: ../../source/index.rst:316 dc2bd9f14efa4c27906e94ec755f0c11
 msgid ""
 "Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll aufzunehmen, "
 "das vom jeweiligen Versammlungsleiter und dem Protokollführer zu unterzeichnen "
@@ -837,11 +851,11 @@ msgstr ""
 "The decisions of the assembly are to be recorded. This log is to be signed by "
 "the assembly leader and the record keeper."
 
-#: ../../source/index.rst:314
+#: ../../source/index.rst:320 550af93ca6b94d3eb7f529bdde084b27
 msgid "(6) Wahlen"
 msgstr "(6) Election"
 
-#: ../../source/index.rst:315
+#: ../../source/index.rst:321 6ed1ea590585466c8f3e65c4d5eb65db
 msgid ""
 "Für Wahlen gilt Folgendes: Hat im ersten Wahlgang kein Kandidat die Mehrheit "
 "der abgegebenen gültigen Stimmen erreicht, findet eine Stichwahl zwischen den "
@@ -851,23 +865,23 @@ msgstr ""
 "of submitted votes, another vote stakes place between the highest voted "
 "candidates."
 
-#: ../../source/index.rst:319
+#: ../../source/index.rst:325 2695e245937040a5afecf42f488bedef
 msgid "(7) Aufgabenbereiche"
 msgstr "(7) Duties"
 
-#: ../../source/index.rst:320
+#: ../../source/index.rst:326 ff3b546ba3f84098a8fb960b50325261
 msgid "Die Mitgliederversammlung ist zuständig für:"
 msgstr "The general assembly is responsible for:"
 
-#: ../../source/index.rst:322
+#: ../../source/index.rst:328 bd43615edeea451995b2d435616467c8
 msgid "die Wahl und Abberufung der Vorstandsmitglieder;"
 msgstr "the election and recall of board members;"
 
-#: ../../source/index.rst:323
+#: ../../source/index.rst:329 80096c89fc194b72b9aa649c73cb125a
 msgid "die Wahl der Kassenprüfer;"
 msgstr "the election of the financial auditor;"
 
-#: ../../source/index.rst:324
+#: ../../source/index.rst:330 4a09b0f03dda46f6a1f7f21b86506ea3
 msgid ""
 "die Genehmigung des vom Vorstand aufgestellten Haushaltsplans für das nächste "
 "Geschäftsjahr;"
@@ -875,11 +889,11 @@ msgstr ""
 "approval of the budget plan submitted by the board towards the next financial "
 "year;"
 
-#: ../../source/index.rst:325
+#: ../../source/index.rst:331 6aeb0ac09fa5446595c7dcd0ae54e16f
 msgid "die Entgegennahme des Jahresberichts und die Entlastung des Vorstands;"
 msgstr "receiving the annual report and relieving the board;"
 
-#: ../../source/index.rst:326
+#: ../../source/index.rst:332 2421af4e6eec4a138d8524c85c740b9a
 msgid ""
 "die Festsetzung der Höhe und der Fälligkeit des Jahresbeitrages (eventuell "
 "Auslagerung in Gebührenordnung)"
@@ -887,18 +901,18 @@ msgstr ""
 "setting the amount and due date of the yearly membership fee (possibly "
 "outsourced into a fee regulation)"
 
-#: ../../source/index.rst:327
+#: ../../source/index.rst:333 04ae392f117043f89e0cb26d42a33980
 msgid ""
 "die Beschlussfassung über Satzungsänderungen und die Auflösung des Vereins."
 msgstr ""
 "the decision over changes to the articles of association and the disbandment of "
 "the association."
 
-#: ../../source/index.rst:331
+#: ../../source/index.rst:337 feeac23deb234e42bff872b382c61fff
 msgid "(8) Versammlungsleitung"
 msgstr "(8) Assembly management"
 
-#: ../../source/index.rst:332
+#: ../../source/index.rst:338 28b3947c418a4388adfc6ca3039eddbc
 msgid ""
 "Die Mitgliederversammlung wird von dem 1. Vorsitzenden des Vorstandes, bei "
 "dessen Verhinderung von seinem Stellvertreter oder dem Schatzmeister geleitet. "
@@ -911,11 +925,11 @@ msgstr ""
 "assembly leader through simple majority vote. The assembly leader decides "
 "selects the record keeper."
 
-#: ../../source/index.rst:339
+#: ../../source/index.rst:345 f7cd5c2fbebf4746ae3bba917fc14361
 msgid "§ 9 Außerordentliche Mitgliederversammlung"
 msgstr "§ 9 Extraordinary General Assembly"
 
-#: ../../source/index.rst:340
+#: ../../source/index.rst:346 d7ced7b8476e4d80979417a055b4c6e7
 msgid ""
 "Eine außerordentliche Mitgliederversammlung findet statt, wenn das Interesse "
 "des Vereins es erfordert oder wenn 1/5 der Mitglieder es schriftlich unter "
@@ -925,11 +939,11 @@ msgstr ""
 "or if 1/5 of members propose it towards the board in written form including "
 "their reasoning."
 
-#: ../../source/index.rst:345
+#: ../../source/index.rst:351 34d27a9c707841c497029ef156b04cc3
 msgid "§ 10 Auflösung des Vereins"
 msgstr "§ 10 Disbandment of the Association"
 
-#: ../../source/index.rst:346
+#: ../../source/index.rst:352 940fce93cd8c4a068c3d9f0d3812cb55
 msgid ""
 "Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter "
 "Zwecke fällt das Vermögen des Vereins an die K Desktop Environment e.V., die es "
@@ -940,7 +954,7 @@ msgstr ""
 "owned by the association go towards the K Desktop Environment e.V. that may use "
 "those assets only towards charitable and ecclesiastical causes."
 
-#: ../../source/index.rst:352
+#: ../../source/index.rst:358 ec4af948cfd2417cb5ed4e7ef62ba15a
 msgid "Zuletzt geändert von der Mitgliederversammlung am 17. September 2022."
 msgstr "Last changed by the general assembly on the 17th of September 2022."
 
@@ -1103,3 +1117,13 @@ msgstr "Last changed by the general assembly on the 17th of September 2022."
 #~ msgstr ""
 #~ "The general assembly elects an auditor for the duration of one year. Board "
 #~ "members cannot be elected as auditors. Reelection is allowed."
+
+#~ msgid ""
+#~ "Mitglieder des Vorstands können darüber hinaus für ihre Tätigkeit eine "
+#~ "angemessene Vergütung erhalten. Die Vergütung für den Zeitaufwand bedarf dem "
+#~ "Grunde und der Höhe nach der vorherigen Beschlussfassung der "
+#~ "Mitgliederversammlung."
+#~ msgstr ""
+#~ "The board members may be compensated appropriately for their work. The "
+#~ "compensation for time spent requires the reason and amount previously "
+#~ "decided by the general assembly."
