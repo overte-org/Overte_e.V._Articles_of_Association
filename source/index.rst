@@ -118,6 +118,11 @@ Die Beschwerde ist innerhalb eines Monats ab Zugang des ablehnenden Bescheids sc
 ------------
 Mitglieder bezahlen einen Jahresbeitrag. Über die Höhe und Fälligkeit des Beitrags beschließt die Mitgliederversammlung.
 
+(3.1) Nichtzahlung von Beiträgen
+--------------------------------
+Bei Beitragsrückstand ruhen die Rechte eines Mitgliedes bis der Rückstand beglichen wurde.
+Rückständige Beiträge werden nicht eingetrieben.
+
 
 § 4 Beendigung der Mitgliedschaft
 =================================
@@ -222,6 +227,7 @@ Maximal dürfen zwei Vorstandsmitglieder kooptiert werden.
 -------------
 Mitglieder des Vorstands können darüber hinaus für ihre Tätigkeit eine angemessene Vergütung erhalten.
 Die Vergütung für den Zeitaufwand bedarf dem Grunde und der Höhe nach der vorherigen Beschlussfassung der Mitgliederversammlung.
+Ausnahmen bestehen für die Ehrenamtspauschale und die Übungsleiterpauschale über die der Vorstand selbst entscheidet.
 
 (6) Beschlussfassung
 --------------------
