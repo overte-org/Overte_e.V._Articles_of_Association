@@ -1,0 +1,5 @@
+Sphinx>=3.5.4
+sphinx-intl>=2.0.1
+
+# Utility for easily running builds in Python virtual environments.
+venv-run
