@@ -355,4 +355,4 @@ K Desktop Environment e.V., die es unmittelbar und ausschließlich für gemeinn�
 
 
 
-Zuletzt geändert von der Mitgliederversammlung am 17. September 2022.
+Zuletzt geändert von der Mitgliederversammlung am 16. September 2023.
