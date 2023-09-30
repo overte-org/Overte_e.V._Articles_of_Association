@@ -5,7 +5,7 @@
 version: 2
 
 # Do not build any formats other than normal HTML
-formats: []
+formats: [htmlzip]
 
 sphinx:
    configuration: source/conf.py
