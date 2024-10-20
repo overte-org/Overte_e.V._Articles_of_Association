@@ -4,31 +4,34 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Overte e.V. Satzung 1.1\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: julian.gro@overte.org\n"
 "POT-Creation-Date: 2023-06-15 19:34+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2024-10-21 11:21+0000\n"
+"Last-Translator: rampa_3 <rampa_3@users.noreply.weblate.overte.org>\n"
+"Language-Team: Czech <https://weblate.overte.org/projects/overte/"
+"Overte-e-V-Articles-of-Association/cs/>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.6.2\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../source/index.rst:4
 msgid "Contents:"
-msgstr ""
+msgstr "Obsah:"
 
 #: ../../source/index.rst:2 220fcbd314934414b4895732e148f2ed
 msgid "Overte e.V. Satzung"
-msgstr ""
+msgstr "Stanovy Overte e.V."
 
 #: ../../source/index.rst:11 5a93277e6e864c5986403d6d06a22d75
 msgid "Erklärung von Begriffen"
-msgstr ""
+msgstr "Vysvětlení terminologie"
 
 #: ../../source/index.rst:13 511f25d32c8b42428b93e139f8b9ad4f
 msgid ""
@@ -41,6 +44,12 @@ msgid ""
 "dürfen; und das Programm verbessern zu dürfen und diese Verbesserungen "
 "zum allgemeinen Wohl zugänglich zu machen."
 msgstr ""
+"V těchto zásadách považujeme počítačové programy za volný software nebo "
+"\"open source software\", který tvůrce uvolní zdarma a způsobem "
+"znemožňujícím změnu tohoto rozhodnutí. Tvůrce tímto povoluje ostatním "
+"svobodně používat program pro jakýkoliv účel, studovat principy jeho funkce, "
+"adaptovat jej pro své potřeby, kopírovat jej pro ostatní, vylepšovat jej a "
+"zveřejňovat tyto změny pro dobro ostatních."
 
 #: ../../source/index.rst:20 f7b01b92fda04261b631f9a3d3bdd7be
 msgid ""
@@ -49,6 +58,10 @@ msgid ""
 "sowie deren Erprobung durch Programmierung und Test freier Software, "
 "welche diese Konzepte und Grundlagen realisiert."
 msgstr ""
+"Vývoj volného software ve smyslu těchto stanov znamená výzkum a kompilaci "
+"základních principů a konceptů, zároveň i jejich testování programováním a "
+"testováním volného software, který implementuje takové koncepty a základní "
+"principy."
 
 #: ../../source/index.rst:23 2784dd2ccb474357a97d6388ca8ee76d
 msgid ""
@@ -58,20 +71,26 @@ msgid ""
 "freie Software entwickelt und wird der Allgemeinheit unentgeltlich zur "
 "Verfügung gestellt."
 msgstr ""
+"\"Overte\" je grafické prostředí obsahující nejen infrastrukturu pro "
+"programy, ale také uživatelské programy, včetně zvuků, obrázků, dokumentů a "
+"překladů. \"Overte\" je vyvýjeno jako volný software a je veřejnosti k "
+"dispozici zdarma."
 
 #: ../../source/index.rst:27 f0762664991b4f439243696d39878503
 msgid ""
 "Der Begriff \"Social-VR\" bezeichnet eine digitale dreidimensionale "
 "Umgebung in der Nutzer mit einander realitätsnahe Interagieren können."
 msgstr ""
+"Termín \"sociální VR\" popisuje digitální 3D prostředí blízké realitě, které "
+"mohou jeho uživatelé využít pro interakci mezi sebou."
 
 #: ../../source/index.rst:31 0e08c10227384d3b87ff7026cd8c1698
 msgid "§ 1 Name, Sitz, Geschäftsjahr"
-msgstr ""
+msgstr "§ 1 Název, registrované sídlo, finanční rok"
 
 #: ../../source/index.rst:34 7853a08f215a49609a681a512ad9414e
 msgid "(1) Name, Eintragung"
-msgstr ""
+msgstr "(1) Název, zápis"
 
 #: ../../source/index.rst:35 1e4cd35cb3a54eb691c5eb3c44b8101b
 msgid ""
@@ -79,40 +98,45 @@ msgid ""
 "eingetragen werden. Nach der Eintragung führt er den Rechtsformzusatz "
 "„e.V.“ im Namen."
 msgstr ""
+"Název spolku je „Overte“. Spolek by měl být zapsán ve spolkovém rejstříku. "
+"Spolek zahrnuje dodatek právní formy „e.V.“ do svého názvu po zápisu do "
+"spolkového rejstříku."
 
 #: ../../source/index.rst:39 b5180a7a9b4d45c788d83986eb062efc
 msgid "(2) Geschäftsjahr"
-msgstr ""
+msgstr "(2) Finanční rok"
 
 #: ../../source/index.rst:40 28922c3e71e2462fb30927daa5a4f69b
 msgid "Das Geschäftsjahr ist das Kalenderjahr."
-msgstr ""
+msgstr "Finanční rok je totožný s kalendářním rokem."
 
 #: ../../source/index.rst:43 c6b6dbd545a44cfdbdfc9e8533de8cf5
 msgid "(3) Sitz"
-msgstr ""
+msgstr "(3) Registrované sídlo"
 
 #: ../../source/index.rst:44 a40c4c1e6f8a41ebbc0f3dabed42e36e
 msgid "Der Verein hat seinen Sitz in Paderborn."
-msgstr ""
+msgstr "Registrované sídlo spolku se nachází v Paderbornu."
 
 #: ../../source/index.rst:48 ef8c5dca856e41b39b82ac7e6df7f132
 msgid "§ 2 Zweck des Vereins, Gemeinnützigkeit"
-msgstr ""
+msgstr "§ 2 Účel spolku, nezisková organizace"
 
 #: ../../source/index.rst:51 79041d9726ef433ab299398aa2079b88
 msgid "(1) Steuerbegünstigte Zwecke"
-msgstr ""
+msgstr "(1) Daňově-zvýhodněné účely"
 
 #: ../../source/index.rst:52 9b306cb381614a89b5c64f8d32145fc8
 msgid ""
 "Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke "
 "im Sinne des Abschnitts „Steuerbegünstigte Zwecke„ der Abgabenordnung."
 msgstr ""
+"Aktivity spolku jsou výhradně a přímo limitovány na neziskové aktivity, jak "
+"je specifikováno v sekci „Steuerbegünstigte Zwecke\", v „Abgabenordnung\"."
 
 #: ../../source/index.rst:56 b3e9d567597e4b618ea3f7e941f3649e
 msgid "(2) Konkreter Förderzweck"
-msgstr ""
+msgstr "(2) Specifické účely"
 
 #: ../../source/index.rst:57 9a9ec6155be1433bac5813d733e024c8
 msgid ""
@@ -122,6 +146,10 @@ msgid ""
 "Chancengleichheit beim Zugang zu Software sowie Volksbildung, "
 "Wissenschaft und Forschung zu unterstützen."
 msgstr ""
+"Účelem spolku je propagace a distribuce volného software pro sociální VR ve "
+"smyslu volného software, přesněji programového balíčku \"Overte\", podpora "
+"volné výměny znalostí a rovnosti možností v přístupu k software, vzdělávání, "
+"vědě a výzkumu."
 
 #: ../../source/index.rst:62 91e030bf64e244208e9dd635861aa695
 msgid "(3) Maßnahmen"
@@ -788,4 +816,3 @@ msgstr ""
 #: ../../source/index.rst:352 ec4af948cfd2417cb5ed4e7ef62ba15a
 msgid "Zuletzt geändert von der Mitgliederversammlung am 17. September 2022."
 msgstr ""
-
