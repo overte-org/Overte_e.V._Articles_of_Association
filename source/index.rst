@@ -214,7 +214,7 @@ Der Vorstand darf nicht:
 --------
 Die Vorstandsmitglieder werden von der Mitgliederversammlung für die Dauer von einem Jahr gewählt. Wählbar sind
 nur Vereinsmitglieder. Wiederwahl ist möglich. Die Vorstandsmitglieder werden von der Mitgliederversammlung pro zu besetzendem Sitz
-im gesonderten Wahlgang bestimmt. In jedem Wahlgang geben die Mitglieder eine Stimme pro Kandidaten ab.
+im gesonderten Wahlgang bestimmt. Das genutzte Wahlverfahren wird auch als Zustimmungswahl bezeichnet: In jedem Wahlgang geben die Mitglieder eine Stimme pro Kandidaten ab.
 Ist die minimale Anzahl an Vorstandsmitgliedern gewählt, kann in jedem folgenden Wahlgang auch dafür gestimmt werden das der Sitz frei bleibt.
 
 Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit so lange im Amt, bis ihre Nachfolger gewählt sind.
@@ -355,4 +355,4 @@ K Desktop Environment e.V., die es unmittelbar und ausschließlich für gemeinn�
 
 
 
-Zuletzt geändert von der Mitgliederversammlung am 16. September 2023.
+Zuletzt geändert von der Mitgliederversammlung am 6. Dezember 2025.
