@@ -4,31 +4,34 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Overte e.V. Satzung 1.1\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: julian.gro@overte.org\n"
 "POT-Creation-Date: 2023-06-15 19:34+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-10-16 01:18+0000\n"
+"Last-Translator: DEIVITI COSTA SILVA <deiviti.eng@gmail.com>\n"
+"Language-Team: Portuguese <https://weblate.overte.org/projects/overte/"
+"Overte-e-V-Articles-of-Association/pt/>\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../source/index.rst:4
 msgid "Contents:"
-msgstr ""
+msgstr "Conteúdo:"
 
 #: ../../source/index.rst:2 220fcbd314934414b4895732e148f2ed
 msgid "Overte e.V. Satzung"
-msgstr ""
+msgstr "Overte e.V. Estatutos"
 
 #: ../../source/index.rst:11 5a93277e6e864c5986403d6d06a22d75
 msgid "Erklärung von Begriffen"
-msgstr ""
+msgstr "Explicação dos termos"
 
 #: ../../source/index.rst:13 511f25d32c8b42428b93e139f8b9ad4f
 msgid ""
@@ -41,6 +44,13 @@ msgid ""
 "dürfen; und das Programm verbessern zu dürfen und diese Verbesserungen "
 "zum allgemeinen Wohl zugänglich zu machen."
 msgstr ""
+"Software livre, também denominado “software de código aberto”, na acepção "
+"destes estatutos, são programas de computador disponibilizados gratuitamente "
+"ao público em geral pelo autor de forma irrecuperável. O autor concede a "
+"terceiros a liberdade de utilizar o programa para qualquer finalidade; poder "
+"examinar como o programa funciona e adaptá-lo às suas próprias necessidades; "
+"ter permissão para fazer cópias para terceiros; e poder melhorar o programa "
+"e disponibilizar essas melhorias para o bem geral."
 
 #: ../../source/index.rst:20 f7b01b92fda04261b631f9a3d3bdd7be
 msgid ""
@@ -49,6 +59,10 @@ msgid ""
 "sowie deren Erprobung durch Programmierung und Test freier Software, "
 "welche diese Konzepte und Grundlagen realisiert."
 msgstr ""
+"O desenvolvimento de software livre na aceção destes estatutos inclui a "
+"investigação e desenvolvimento dos princípios e conceitos teóricos, bem como "
+"o seu teste através da programação e teste de software livre que implementa "
+"esses conceitos e princípios."
 
 #: ../../source/index.rst:23 2784dd2ccb474357a97d6388ca8ee76d
 msgid ""
@@ -58,20 +72,26 @@ msgid ""
 "freie Software entwickelt und wird der Allgemeinheit unentgeltlich zur "
 "Verfügung gestellt."
 msgstr ""
+"O pacote de software \"Overte\" é um ambiente gráfico que contém "
+"infraestrutura para programas e programas de usuário, incluindo sons, "
+"imagens, modelos 3D, documentos e traduções. É desenvolvido como software "
+"livre e disponibilizado gratuitamente ao público em geral."
 
 #: ../../source/index.rst:27 f0762664991b4f439243696d39878503
 msgid ""
 "Der Begriff \"Social-VR\" bezeichnet eine digitale dreidimensionale "
 "Umgebung in der Nutzer mit einander realitätsnahe Interagieren können."
 msgstr ""
+"O termo “RV social” refere-se a um ambiente digital tridimensional no qual "
+"os usuários podem interagir uns com os outros de maneira realista."
 
 #: ../../source/index.rst:31 0e08c10227384d3b87ff7026cd8c1698
 msgid "§ 1 Name, Sitz, Geschäftsjahr"
-msgstr ""
+msgstr "§ 1º Nome, sede social, exercício financeiro"
 
 #: ../../source/index.rst:34 7853a08f215a49609a681a512ad9414e
 msgid "(1) Name, Eintragung"
-msgstr ""
+msgstr "(1) Nome, registro"
 
 #: ../../source/index.rst:35 1e4cd35cb3a54eb691c5eb3c44b8101b
 msgid ""
@@ -79,40 +99,45 @@ msgid ""
 "eingetragen werden. Nach der Eintragung führt er den Rechtsformzusatz "
 "„e.V.“ im Namen."
 msgstr ""
+"O nome do clube é “Overte”. Ele deve ser registrado no registro da "
+"associação. Após o registro, ele passa a ter o sufixo de forma jurídica “eV” "
+"em seu nome."
 
 #: ../../source/index.rst:39 b5180a7a9b4d45c788d83986eb062efc
 msgid "(2) Geschäftsjahr"
-msgstr ""
+msgstr "(2) Ano Fiscal"
 
 #: ../../source/index.rst:40 28922c3e71e2462fb30927daa5a4f69b
 msgid "Das Geschäftsjahr ist das Kalenderjahr."
-msgstr ""
+msgstr "O exercício financeiro é o ano civil."
 
 #: ../../source/index.rst:43 c6b6dbd545a44cfdbdfc9e8533de8cf5
 msgid "(3) Sitz"
-msgstr ""
+msgstr "(3) Assento"
 
 #: ../../source/index.rst:44 a40c4c1e6f8a41ebbc0f3dabed42e36e
 msgid "Der Verein hat seinen Sitz in Paderborn."
-msgstr ""
+msgstr "O clube tem sede em Paderborn."
 
 #: ../../source/index.rst:48 ef8c5dca856e41b39b82ac7e6df7f132
 msgid "§ 2 Zweck des Vereins, Gemeinnützigkeit"
-msgstr ""
+msgstr "§ 2 Finalidade da associação, estatuto sem fins lucrativos"
 
 #: ../../source/index.rst:51 79041d9726ef433ab299398aa2079b88
 msgid "(1) Steuerbegünstigte Zwecke"
-msgstr ""
+msgstr "(1) Finalidades fiscais privilegiadas"
 
 #: ../../source/index.rst:52 9b306cb381614a89b5c64f8d32145fc8
 msgid ""
 "Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke "
 "im Sinne des Abschnitts „Steuerbegünstigte Zwecke„ der Abgabenordnung."
 msgstr ""
+"A associação prossegue exclusiva e diretamente fins de caridade na aceção da "
+"secção “Finalidades fiscais privilegiadas” do código tributário."
 
 #: ../../source/index.rst:56 b3e9d567597e4b618ea3f7e941f3649e
 msgid "(2) Konkreter Förderzweck"
-msgstr ""
+msgstr "(2) Finalidade específica do financiamento"
 
 #: ../../source/index.rst:57 9a9ec6155be1433bac5813d733e024c8
 msgid ""
@@ -122,30 +147,39 @@ msgid ""
 "Chancengleichheit beim Zugang zu Software sowie Volksbildung, "
 "Wissenschaft und Forschung zu unterstützen."
 msgstr ""
+"O objetivo da associação é promover e divulgar software social VR gratuito "
+"no sentido de software livre, com especial atenção ao pacote de programas "
+"\"Overte\", a fim de apoiar a livre troca de conhecimento e a igualdade de "
+"oportunidades no acesso ao software também como educação popular, ciência e "
+"pesquisa."
 
 #: ../../source/index.rst:62 91e030bf64e244208e9dd635861aa695
 msgid "(3) Maßnahmen"
-msgstr ""
+msgstr "(3) Medidas"
 
 #: ../../source/index.rst:63 cf844f9d4b3341de966388fe0a435404
 msgid "Der Satzungszweck wird verwirklicht insbesondere durch:"
-msgstr ""
+msgstr "A finalidade dos estatutos é alcançada, nomeadamente, através de:"
 
 #: ../../source/index.rst:65 c20d6cbf0e0349ab896f1d22bc7664c8
 msgid ""
 "die Förderung der Bildung, des Meinungsaustauschs und der Zusammenarbeit "
 "von Anwendern, Entwicklern und Forschern"
 msgstr ""
+"promovendo a educação, a troca de pontos de vista e a colaboração entre "
+"usuários, desenvolvedores e pesquisadores"
 
 #: ../../source/index.rst:67 a7c4064da78a455290b38e66ce7930be
 msgid ""
 "Forschung und Diskussion über die Auswirkungen freier Social-VR-Software "
 "und den Gedanken Freier Software auf Gesellschaft und Wissenschaft"
 msgstr ""
+"Pesquisa e discussão sobre os efeitos do software de RV social gratuito e a "
+"ideia de software livre na sociedade e na ciência"
 
 #: ../../source/index.rst:70 cc828f1d9d9a4c0480a710ef98e18acd
 msgid "die Weiterentwicklung und Forschung an freier Social-VR-Software"
-msgstr ""
+msgstr "o maior desenvolvimento e pesquisa de software social VR gratuito"
 
 #: ../../source/index.rst:72 01cda2eaa3974ea183d819a7fb3aee99
 msgid ""
@@ -154,6 +188,9 @@ msgid ""
 "Verfügbarkeit und die Erstellung und Verbreitung von Informationsmaterial"
 " darüber"
 msgstr ""
+"o fornecimento de software social VR gratuito, suportando imagens, sons, "
+"modelos 3D, dados e documentação e promovendo a sua disponibilização e a "
+"criação e distribuição de material informativo sobre os mesmos"
 
 #: ../../source/index.rst:75 9be25e6a344843c5b03574ab12193c69
 msgid ""
@@ -162,16 +199,21 @@ msgid ""
 "die Informationen einem breiteren Spektrum von Anwendern zugänglich zu "
 "machen."
 msgstr ""
+"Contributos para a prestação de informação informada ao público na área de "
+"atuação da associação e participação em feiras e congressos de forma a "
+"tornar a informação acessível a um maior leque de utilizadores."
 
 #: ../../source/index.rst:78 cf00d088bf84415695283f695dccacd8
 msgid ""
 "Beratung und Unterstützung von Bildungseinrichtungen bei der "
 "Implementierung freier Social-VR-Software"
 msgstr ""
+"Aconselhamento e apoio a instituições de ensino na implementação de software "
+"social VR gratuito"
 
 #: ../../source/index.rst:81 fddc95729e8e47dfa4c22852be69d0de
 msgid "(4) Gemeinnützigkeit"
-msgstr ""
+msgstr "(4) Status sem fins lucrativos"
 
 #: ../../source/index.rst:82 4c5c82ccdfac492da21c9ec36533167a
 msgid ""
@@ -182,14 +224,19 @@ msgid ""
 " die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe "
 "Vergütungen begünstigt werden."
 msgstr ""
+"A associação trabalha desinteressadamente; não prossegue principalmente os "
+"seus próprios fins económicos. Os fundos da associação só podem ser "
+"utilizados para fins estatutários. Os membros não recebem pagamentos da "
+"associação. Ninguém pode beneficiar de despesas alheias ao objecto da "
+"associação ou de remunerações desproporcionadamente elevadas."
 
 #: ../../source/index.rst:89 5da66f2d9ecd488ba54bfa014f95e8c2
 msgid "§ 3 Erwerb der Mitgliedschaft, Mitgliedsbeiträge"
-msgstr ""
+msgstr "§ 3 Aquisição de adesão, taxas de adesão"
 
 #: ../../source/index.rst:92 aef0051c5d874153b7ca1727470c0fa7
 msgid "(1) Art der Mitglieder"
-msgstr ""
+msgstr "(1) Tipo de membros"
 
 #: ../../source/index.rst:93 dd9aee027cd84347a8717da8a086360f
 msgid ""
@@ -197,6 +244,9 @@ msgid ""
 "werden. Juristische Personen benennen eine natürliche Person als "
 "Vertreter zur Ausübung der verbleibenden Rechte und Pflichten."
 msgstr ""
+"Qualquer pessoa física ou jurídica pode tornar-se membro da associação. As "
+"pessoas jurídicas nomeiam pessoa física como representante para exercer os "
+"demais direitos e obrigações."
 
 #: ../../source/index.rst:96 793df3b2cf21495cbf7c6a795ba84848
 msgid ""
@@ -204,6 +254,8 @@ msgid ""
 "von der Beitragspflicht befreit. In der Mitgliederversammlung haben diese"
 " eine Stimme."
 msgstr ""
+"Os membros honorários são nomeados pela assembleia geral. Você está isento "
+"de pagar contribuições. Eles têm um voto na assembleia geral."
 
 #: ../../source/index.rst:99 bbb5d8ce0f544b3a943667e77098805b
 msgid ""
@@ -212,6 +264,10 @@ msgid ""
 "oder Sachbeitrag fördern. Sie haben das Recht zur Teilnahme an der "
 "Mitgliederversammlung, ohne damit ein Stimmrecht zu erwerben."
 msgstr ""
+"Os sócios apoiantes são as pessoas singulares e coletivas que promovem os "
+"propósitos e objetivos da associação, nomeadamente através de contribuições "
+"financeiras ou em espécie. Você tem o direito de participar da assembleia "
+"geral sem adquirir direito de voto."
 
 #: ../../source/index.rst:103 635b28430a63426c86becb9ce802f8e9
 msgid ""
@@ -221,20 +277,26 @@ msgid ""
 " Stimme. Sie werden nur unter besonderen Umständen aufgenommen. Solche "
 "Umstände beinhalten"
 msgstr ""
+"Membros pseudônimos são membros cujas identidades reais são conhecidas "
+"apenas pelo conselho. O conselho está empenhado em manter em segredo sua "
+"verdadeira identidade. Eles têm um voto na assembleia geral. Eles só são "
+"aceitos em circunstâncias especiais. Tais circunstâncias incluem"
 
 #: ../../source/index.rst:107 ec4c1abb10ef4a7ca947ae5363207b73
 msgid ""
 "bekannte negative Haltung des Arbeitgebers zur dem Verein oder seinen "
 "Zielen;"
 msgstr ""
+"atitude negativa conhecida do empregador em relação ao clube ou aos seus "
+"objetivos;"
 
 #: ../../source/index.rst:108 f81be4005e544e4eac4463247032340e
 msgid "Furcht vor Verfolgung."
-msgstr ""
+msgstr "Medo de perseguição."
 
 #: ../../source/index.rst:111 1b97145d93b041edacbb3c306bb37602
 msgid "(2) Erwerb"
-msgstr ""
+msgstr "(2) Aquisição"
 
 #: ../../source/index.rst:112 5bdfa4c438014683b81ac54105b2eb7f
 msgid ""
@@ -246,50 +308,58 @@ msgid ""
 "einzulegen. Über die Beschwerde entscheidet die nächste ordentliche "
 "Mitgliederversammlung."
 msgstr ""
+"O pedido de adesão deve ser apresentado ao conselho por escrito ou por e-"
+"mail. O conselho decide sobre a admissão a seu próprio critério. O "
+"requerente pode apresentar reclamação contra a decisão negativa do conselho. "
+"A reclamação deve ser apresentada por escrito ao conselho no prazo de um mês "
+"após o recebimento da decisão negativa. A próxima assembleia geral ordinária "
+"decidirá sobre a reclamação."
 
 #: ../../source/index.rst:118 14bd80b9ee64431f926f03c90e2bc54b
 msgid "(3) Beiträge"
-msgstr ""
+msgstr "(3) Contribuições"
 
 #: ../../source/index.rst:119 f0905a0fdc7c4d9b878b9183563b50ba
 msgid ""
 "Mitglieder bezahlen einen Jahresbeitrag. Über die Höhe und Fälligkeit des"
 " Beitrags beschließt die Mitgliederversammlung."
 msgstr ""
+"Os membros pagam uma taxa anual. A assembleia geral decide o montante e a "
+"data de vencimento da contribuição."
 
 #: ../../source/index.rst:123 d794189ffefa4f73ad90ee3d8b032053
 msgid "§ 4 Beendigung der Mitgliedschaft"
-msgstr ""
+msgstr "§ 4 Cessação da adesão"
 
 #: ../../source/index.rst:126 4d2ac1f580184ed48548530ba287d320
 msgid "(1) Grund"
-msgstr ""
+msgstr "(1) Terreno"
 
 #: ../../source/index.rst:127 192cb0b0c4894461b35eba0cc85edb64
 msgid "Die Mitgliedschaft endet"
-msgstr ""
+msgstr "A assinatura termina"
 
 #: ../../source/index.rst:129 94bc6b9e6de74bba8507a99ebe1e4dfd
 msgid ""
 "bei natürlichen Personen durch deren Tod oder Verlust der "
 "Geschäftsfähigkeit;"
-msgstr ""
+msgstr "no caso de pessoas físicas, por morte ou perda de capacidade jurídica;"
 
 #: ../../source/index.rst:130 f6b4715275e749afb99b6dcd847f7544
 msgid "bei juristischen Personen durch Verlust der Rechtsfähigkeit;"
-msgstr ""
+msgstr "no caso de pessoas jurídicas, por perda de capacidade jurídica;"
 
 #: ../../source/index.rst:131 43c98be21ceb4e6da5c9c9902e465b22
 msgid "durch Austritt;"
-msgstr ""
+msgstr "saindo;"
 
 #: ../../source/index.rst:132 95776c5c8d3d47faab4cc1eb343058cf
 msgid "durch Ausschluss."
-msgstr ""
+msgstr "através da exclusão."
 
 #: ../../source/index.rst:135 16c431bb55d643b691d99b53bd0a5695
 msgid "(2) Austritt"
-msgstr ""
+msgstr "(2) Sair"
 
 #: ../../source/index.rst:136 b4b29749457649b2b6757805c028542d
 msgid ""
@@ -297,10 +367,13 @@ msgid ""
 "per E-Mail gegenüber dem Vorstand. Der Austritt ist nur mit einer Frist "
 "von einem Monat zum 31.12. eines Geschäftsjahrs zulässig."
 msgstr ""
+"A renúncia de um membro é feita à direção por declaração escrita ou por e-"
+"mail. O saque só é possível com aviso prévio de um mês até 31 de dezembro. "
+"por ano fiscal."
 
 #: ../../source/index.rst:140 48f029125c434e25819fa23d2827a0cf
 msgid "(3) Ausschluss"
-msgstr ""
+msgstr "(3) Exclusão"
 
 #: ../../source/index.rst:141 5d7f7f1043944c6398d71e21edaa0179
 msgid ""
@@ -309,6 +382,10 @@ msgid ""
 "wichtiger Grund die Fortführung der Mitgliedschaft für den Verein oder "
 "seine Mitglieder unzumutbar erscheinen lässt."
 msgstr ""
+"Um membro pode ser excluído da associação por motivos importantes, com "
+"efeito imediato por resolução do conselho, se um motivo importante fizer com "
+"que a continuidade da associação pareça irracional para a associação ou seus "
+"membros."
 
 #: ../../source/index.rst:144 55deff3152244ad09071adf837131051
 msgid ""
@@ -788,4 +865,3 @@ msgstr ""
 #: ../../source/index.rst:352 ec4af948cfd2417cb5ed4e7ef62ba15a
 msgid "Zuletzt geändert von der Mitgliederversammlung am 17. September 2022."
 msgstr ""
-

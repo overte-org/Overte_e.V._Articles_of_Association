@@ -4,31 +4,34 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Overte e.V. Satzung 1.1\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: julian.gro@overte.org\n"
 "POT-Creation-Date: 2023-06-15 19:34+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-07-27 14:32+0000\n"
+"Last-Translator: Paulo César Coronado <paulocoronado@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.overte.org/projects/overte/"
+"Overte-e-V-Articles-of-Association/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../source/index.rst:4
 msgid "Contents:"
-msgstr ""
+msgstr "Contenido:"
 
 #: ../../source/index.rst:2 220fcbd314934414b4895732e148f2ed
 msgid "Overte e.V. Satzung"
-msgstr ""
+msgstr "Estatutos de Overte e.V."
 
 #: ../../source/index.rst:11 5a93277e6e864c5986403d6d06a22d75
 msgid "Erklärung von Begriffen"
-msgstr ""
+msgstr "Definición de términos"
 
 #: ../../source/index.rst:13 511f25d32c8b42428b93e139f8b9ad4f
 msgid ""
@@ -41,6 +44,12 @@ msgid ""
 "dürfen; und das Programm verbessern zu dürfen und diese Verbesserungen "
 "zum allgemeinen Wohl zugänglich zu machen."
 msgstr ""
+"El software libre, también denominado \"software de código abierto\", en el "
+"sentido de los presentes estatutos, son programas informáticos que el autor "
+"pone a disposición del público concediendo la libertad de utilizar el "
+"programa para cualquier fin; examinar cómo funciona el programa y adaptarlo "
+"a sus propias necesidades; hacer copias para otros; y mejorar el programa y "
+"poner estas mejoras a disposición del público en general."
 
 #: ../../source/index.rst:20 f7b01b92fda04261b631f9a3d3bdd7be
 msgid ""
@@ -49,6 +58,10 @@ msgid ""
 "sowie deren Erprobung durch Programmierung und Test freier Software, "
 "welche diese Konzepte und Grundlagen realisiert."
 msgstr ""
+"El desarrollo de software libre en el sentido de estos estatutos incluye la "
+"investigación y elaboración de fundamentos y conceptos teóricos, así como su "
+"comprobación mediante la programación y prueba de software libre que "
+"implemente dichos conceptos y fundamentos."
 
 #: ../../source/index.rst:23 2784dd2ccb474357a97d6388ca8ee76d
 msgid ""
@@ -58,20 +71,26 @@ msgid ""
 "freie Software entwickelt und wird der Allgemeinheit unentgeltlich zur "
 "Verfügung gestellt."
 msgstr ""
+"El paquete de software \"Overte\" es un entorno gráfico que contiene tanto "
+"la arquitectura del programa como los programas de aplicación, incluidos "
+"sonidos, imágenes, modelos 3D, documentos y traducciones. Se desarrolla como "
+"software libre y se pone a disposición del público de forma gratuita."
 
 #: ../../source/index.rst:27 f0762664991b4f439243696d39878503
 msgid ""
 "Der Begriff \"Social-VR\" bezeichnet eine digitale dreidimensionale "
 "Umgebung in der Nutzer mit einander realitätsnahe Interagieren können."
 msgstr ""
+"El término \"Social-VR\" se refiere a un entorno digital tridimensional en "
+"el que los usuarios pueden interactuar entre sí de forma realista."
 
 #: ../../source/index.rst:31 0e08c10227384d3b87ff7026cd8c1698
 msgid "§ 1 Name, Sitz, Geschäftsjahr"
-msgstr ""
+msgstr "§ 1 Nombre, sede, ejercicio fiscal"
 
 #: ../../source/index.rst:34 7853a08f215a49609a681a512ad9414e
 msgid "(1) Name, Eintragung"
-msgstr ""
+msgstr "(1) Nombre, registro"
 
 #: ../../source/index.rst:35 1e4cd35cb3a54eb691c5eb3c44b8101b
 msgid ""
@@ -79,40 +98,46 @@ msgid ""
 "eingetragen werden. Nach der Eintragung führt er den Rechtsformzusatz "
 "„e.V.“ im Namen."
 msgstr ""
+"El nombre de la asociación es \"Overte\". Se inscribirá en el registro de "
+"asociaciones. Tras su inscripción, llevará la abreviatura \"e.V.\" en su "
+"nombre."
 
 #: ../../source/index.rst:39 b5180a7a9b4d45c788d83986eb062efc
 msgid "(2) Geschäftsjahr"
-msgstr ""
+msgstr "(2) Ejercicio Fiscal"
 
 #: ../../source/index.rst:40 28922c3e71e2462fb30927daa5a4f69b
 msgid "Das Geschäftsjahr ist das Kalenderjahr."
-msgstr ""
+msgstr "El ejercicio fiscal es el año natural."
 
 #: ../../source/index.rst:43 c6b6dbd545a44cfdbdfc9e8533de8cf5
 msgid "(3) Sitz"
-msgstr ""
+msgstr "(3) Sede"
 
 #: ../../source/index.rst:44 a40c4c1e6f8a41ebbc0f3dabed42e36e
 msgid "Der Verein hat seinen Sitz in Paderborn."
-msgstr ""
+msgstr "La asociación tiene su sede en Paderborn, Alemania."
 
 #: ../../source/index.rst:48 ef8c5dca856e41b39b82ac7e6df7f132
 msgid "§ 2 Zweck des Vereins, Gemeinnützigkeit"
-msgstr ""
+msgstr "§ 2 Objetivo de la asociación, utilidad pública"
 
 #: ../../source/index.rst:51 79041d9726ef433ab299398aa2079b88
 msgid "(1) Steuerbegünstigte Zwecke"
-msgstr ""
+msgstr "(1) Finalidades con beneficios fiscales"
 
 #: ../../source/index.rst:52 9b306cb381614a89b5c64f8d32145fc8
 msgid ""
 "Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke "
 "im Sinne des Abschnitts „Steuerbegünstigte Zwecke„ der Abgabenordnung."
 msgstr ""
+"La asociación persigue exclusivamente y de forma directa fines de utilidad "
+"pública en el sentido del apartado \"Fines con beneficios fiscales\" del "
+"Código Fiscal."
 
 #: ../../source/index.rst:56 b3e9d567597e4b618ea3f7e941f3649e
 msgid "(2) Konkreter Förderzweck"
-msgstr ""
+msgstr "(2) Finalidad de financiación específica"
 
 #: ../../source/index.rst:57 9a9ec6155be1433bac5813d733e024c8
 msgid ""
@@ -122,30 +147,40 @@ msgid ""
 "Chancengleichheit beim Zugang zu Software sowie Volksbildung, "
 "Wissenschaft und Forschung zu unterstützen."
 msgstr ""
+"El objetivo de la asociación es promover y difundir software libre de "
+"realidad virtual social, con especial atención al paquete de programas "
+"«Overte», con el fin de apoyar el libre intercambio de conocimientos y la "
+"igualdad de oportunidades en el acceso al software, así como la educación "
+"popular, la ciencia y la investigación."
 
 #: ../../source/index.rst:62 91e030bf64e244208e9dd635861aa695
 msgid "(3) Maßnahmen"
-msgstr ""
+msgstr "(3) Medidas"
 
 #: ../../source/index.rst:63 cf844f9d4b3341de966388fe0a435404
 msgid "Der Satzungszweck wird verwirklicht insbesondere durch:"
-msgstr ""
+msgstr "El objetivo de los estatutos se concreta mediante:"
 
 #: ../../source/index.rst:65 c20d6cbf0e0349ab896f1d22bc7664c8
 msgid ""
 "die Förderung der Bildung, des Meinungsaustauschs und der Zusammenarbeit "
 "von Anwendern, Entwicklern und Forschern"
 msgstr ""
+"el fomento de la formación, el intercambio de opiniones y la cooperación "
+"entre usuarios, desarrolladores e investigadores"
 
 #: ../../source/index.rst:67 a7c4064da78a455290b38e66ce7930be
 msgid ""
 "Forschung und Diskussion über die Auswirkungen freier Social-VR-Software "
 "und den Gedanken Freier Software auf Gesellschaft und Wissenschaft"
 msgstr ""
+"Investigación y debate sobre el impacto del software libre de realidad "
+"virtual social y la idea del software libre en la sociedad y la ciencia"
 
 #: ../../source/index.rst:70 cc828f1d9d9a4c0480a710ef98e18acd
 msgid "die Weiterentwicklung und Forschung an freier Social-VR-Software"
 msgstr ""
+"El desarrollo y la investigación de software libre de realidad virtual social"
 
 #: ../../source/index.rst:72 01cda2eaa3974ea183d819a7fb3aee99
 msgid ""
@@ -154,6 +189,10 @@ msgid ""
 "Verfügbarkeit und die Erstellung und Verbreitung von Informationsmaterial"
 " darüber"
 msgstr ""
+"El suministro de software gratuito de realidad virtual social, imágenes, "
+"sonidos, modelos 3D, datos y documentación de apoyo, así como la promoción "
+"de su disponibilidad y la creación y difusión de material informativo al "
+"respecto"
 
 #: ../../source/index.rst:75 9be25e6a344843c5b03574ab12193c69
 msgid ""
@@ -162,16 +201,21 @@ msgid ""
 "die Informationen einem breiteren Spektrum von Anwendern zugänglich zu "
 "machen."
 msgstr ""
+"Contribuciones a la información especializada del público en el ámbito de "
+"actividad de la asociación y participación en encuentros y congresos para "
+"hacer accesible la información a un espectro más amplio de usuarios."
 
 #: ../../source/index.rst:78 cf00d088bf84415695283f695dccacd8
 msgid ""
 "Beratung und Unterstützung von Bildungseinrichtungen bei der "
 "Implementierung freier Social-VR-Software"
 msgstr ""
+"Consultoría y apoyo a instituciones educativas en la implementación de "
+"software libre de VR social"
 
 #: ../../source/index.rst:81 fddc95729e8e47dfa4c22852be69d0de
 msgid "(4) Gemeinnützigkeit"
-msgstr ""
+msgstr "(4) Carácter sin fines de lucro"
 
 #: ../../source/index.rst:82 4c5c82ccdfac492da21c9ec36533167a
 msgid ""
@@ -182,14 +226,20 @@ msgid ""
 " die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe "
 "Vergütungen begünstigt werden."
 msgstr ""
+"La asociación actúa desinteresadamente; No persigue principalmente fines "
+"comerciales. Los fondos de la asociación sólo podrán utilizarse para los "
+"fines establecidos en sus estatutos. Los miembros no reciben ninguna "
+"donación de los fondos de la asociación. Ninguna persona podrá ser "
+"favorecida mediante gastos ajenos al objeto de la asociación o mediante "
+"remuneraciones desproporcionadamente altas."
 
 #: ../../source/index.rst:89 5da66f2d9ecd488ba54bfa014f95e8c2
 msgid "§ 3 Erwerb der Mitgliedschaft, Mitgliedsbeiträge"
-msgstr ""
+msgstr "§ 3 Afiliación y cuotas de membresía"
 
 #: ../../source/index.rst:92 aef0051c5d874153b7ca1727470c0fa7
 msgid "(1) Art der Mitglieder"
-msgstr ""
+msgstr "(1) Tipo de Afiliados"
 
 #: ../../source/index.rst:93 dd9aee027cd84347a8717da8a086360f
 msgid ""
@@ -197,6 +247,9 @@ msgid ""
 "werden. Juristische Personen benennen eine natürliche Person als "
 "Vertreter zur Ausübung der verbleibenden Rechte und Pflichten."
 msgstr ""
+"Cualquier persona natural o jurídica puede afiliarse a la asociación. Las "
+"personas jurídicas designarán a una persona natural como representante para "
+"el ejercicio de los derechos y obligaciones restantes."
 
 #: ../../source/index.rst:96 793df3b2cf21495cbf7c6a795ba84848
 msgid ""
@@ -204,6 +257,8 @@ msgid ""
 "von der Beitragspflicht befreit. In der Mitgliederversammlung haben diese"
 " eine Stimme."
 msgstr ""
+"Los miembros honorarios son designados por la asamblea general. Estás exento "
+"del pago de contribuciones. Tienen un voto en la junta general."
 
 #: ../../source/index.rst:99 bbb5d8ce0f544b3a943667e77098805b
 msgid ""
@@ -212,6 +267,10 @@ msgid ""
 "oder Sachbeitrag fördern. Sie haben das Recht zur Teilnahme an der "
 "Mitgliederversammlung, ohne damit ein Stimmrecht zu erwerben."
 msgstr ""
+"Los miembros patrocinadores son personas naturales y jurídicas que promueven "
+"los fines y objetivos de la asociación, en particular mediante "
+"contribuciones financieras o en especie. Tienen derecho a participar en la "
+"asamblea general, sin adquirir por ello derecho a voto."
 
 #: ../../source/index.rst:103 635b28430a63426c86becb9ce802f8e9
 msgid ""
@@ -221,20 +280,25 @@ msgid ""
 " Stimme. Sie werden nur unter besonderen Umständen aufgenommen. Solche "
 "Umstände beinhalten"
 msgstr ""
+"Los miembros seudónimos son miembros cuya identidad real sólo es conocida "
+"por la junta directiva. La Junta Directiva se compromete a mantener en "
+"secreto su identidad real. Tienen un voto en la junta general. Sólo se "
+"aceptarán en circunstancias especiales. Tales circunstancias incluyen"
 
 #: ../../source/index.rst:107 ec4c1abb10ef4a7ca947ae5363207b73
 msgid ""
 "bekannte negative Haltung des Arbeitgebers zur dem Verein oder seinen "
 "Zielen;"
 msgstr ""
+"actitud negativa explícita del empleador hacia la asociación o sus objetivos;"
 
 #: ../../source/index.rst:108 f81be4005e544e4eac4463247032340e
 msgid "Furcht vor Verfolgung."
-msgstr ""
+msgstr "Miedo a la persecución."
 
 #: ../../source/index.rst:111 1b97145d93b041edacbb3c306bb37602
 msgid "(2) Erwerb"
-msgstr ""
+msgstr "(2) Afiliación"
 
 #: ../../source/index.rst:112 5bdfa4c438014683b81ac54105b2eb7f
 msgid ""
@@ -246,50 +310,60 @@ msgid ""
 "einzulegen. Über die Beschwerde entscheidet die nächste ordentliche "
 "Mitgliederversammlung."
 msgstr ""
+"La solicitud de membresía debe presentarse a la junta directiva por escrito "
+"o por correo electrónico. La Junta decide sobre la admisión a su propia "
+"discreción. El solicitante podrá apelar la decisión de rechazo de la Junta. "
+"El recurso deberá presentarse por escrito ante el Consejo Directivo dentro "
+"del mes siguiente a la recepción de la comunicación del rechazo. La próxima "
+"asamblea general ordinaria decidirá sobre la reclamación."
 
 #: ../../source/index.rst:118 14bd80b9ee64431f926f03c90e2bc54b
 msgid "(3) Beiträge"
-msgstr ""
+msgstr "(3) Cuotas"
 
 #: ../../source/index.rst:119 f0905a0fdc7c4d9b878b9183563b50ba
 msgid ""
 "Mitglieder bezahlen einen Jahresbeitrag. Über die Höhe und Fälligkeit des"
 " Beitrags beschließt die Mitgliederversammlung."
 msgstr ""
+"Los miembros pagan una cuota anual. La junta general decide el importe y la "
+"fecha de vencimiento del aporte."
 
 #: ../../source/index.rst:123 d794189ffefa4f73ad90ee3d8b032053
 msgid "§ 4 Beendigung der Mitgliedschaft"
-msgstr ""
+msgstr "§ 4 Terminación de la membresía"
 
 #: ../../source/index.rst:126 4d2ac1f580184ed48548530ba287d320
 msgid "(1) Grund"
-msgstr ""
+msgstr "(1) Razones"
 
 #: ../../source/index.rst:127 192cb0b0c4894461b35eba0cc85edb64
 msgid "Die Mitgliedschaft endet"
-msgstr ""
+msgstr "Finalización del término de la membresía"
 
 #: ../../source/index.rst:129 94bc6b9e6de74bba8507a99ebe1e4dfd
 msgid ""
 "bei natürlichen Personen durch deren Tod oder Verlust der "
 "Geschäftsfähigkeit;"
 msgstr ""
+"en el caso de las personas naturales, por su fallecimiento o pérdida de la "
+"capacidad jurídica;"
 
 #: ../../source/index.rst:130 f6b4715275e749afb99b6dcd847f7544
 msgid "bei juristischen Personen durch Verlust der Rechtsfähigkeit;"
-msgstr ""
+msgstr "en el caso de personas jurídicas, por pérdida de capacidad jurídica;"
 
 #: ../../source/index.rst:131 43c98be21ceb4e6da5c9c9902e465b22
 msgid "durch Austritt;"
-msgstr ""
+msgstr "por renuncia voluntaria;"
 
 #: ../../source/index.rst:132 95776c5c8d3d47faab4cc1eb343058cf
 msgid "durch Ausschluss."
-msgstr ""
+msgstr "por exclusión motivada."
 
 #: ../../source/index.rst:135 16c431bb55d643b691d99b53bd0a5695
 msgid "(2) Austritt"
-msgstr ""
+msgstr "(2) Proceso de salida"
 
 #: ../../source/index.rst:136 b4b29749457649b2b6757805c028542d
 msgid ""
@@ -297,10 +371,13 @@ msgid ""
 "per E-Mail gegenüber dem Vorstand. Der Austritt ist nur mit einer Frist "
 "von einem Monat zum 31.12. eines Geschäftsjahrs zulässig."
 msgstr ""
+"La baja de un miembro se realizará mediante declaración escrita o por correo "
+"electrónico dirigida a la junta directiva. La baja solo será válida con un "
+"plazo de preaviso de un mes antes del 31 de diciembre de un ejercicio fiscal."
 
 #: ../../source/index.rst:140 48f029125c434e25819fa23d2827a0cf
 msgid "(3) Ausschluss"
-msgstr ""
+msgstr "(3) Expulsión"
 
 #: ../../source/index.rst:141 5d7f7f1043944c6398d71e21edaa0179
 msgid ""
@@ -309,6 +386,8 @@ msgid ""
 "wichtiger Grund die Fortführung der Mitgliedschaft für den Verein oder "
 "seine Mitglieder unzumutbar erscheinen lässt."
 msgstr ""
+"Un miembro puede ser excluido de la asociación con efecto inmediato por "
+"decisión de la junta por razones importantes."
 
 #: ../../source/index.rst:144 55deff3152244ad09071adf837131051
 msgid ""
@@ -316,10 +395,15 @@ msgid ""
 "Mitglied trotz Mahnung länger als sechs Monate mit seiner Beitragszahlung"
 " im Rückstand ist oder den Vereinsinteressen grob zuwider gehandelt hat."
 msgstr ""
+"Se considerará causa justificada, en particular, cuando el miembro, a pesar "
+"de haber recibido un recordatorio, lleve más de seis meses de retraso en el "
+"pago de sus cuotas o haya actuado de manera gravemente contraria a los "
+"intereses de la asociación."
 
 #: ../../source/index.rst:147 6698e972c296496dbd39e9f6556dcffc
 msgid "Dem Mitglied ist vor seinem Ausschluss Gelegenheit zur Anhörung zu geben."
 msgstr ""
+"Se debe dar al miembro la oportunidad de ser escuchado antes de ser excluido."
 
 #: ../../source/index.rst:149 bc1972f919da478f9044ade1e80d2a16
 msgid ""
@@ -327,10 +411,13 @@ msgid ""
 "Mitgliederversammlung nach dem Zugang der Ausschlusserklärung anrufen, "
 "die dann abschließend entscheidet."
 msgstr ""
+"El socio podrá apelar la exclusión en la siguiente asamblea general "
+"ordinaria después de recibir la notificación de exclusión. Luego de ello se "
+"tomará la decisión final."
 
 #: ../../source/index.rst:152 e6212ca3fde1421b92fce4df8999afe3
 msgid "(4) Pflichten der Mitglieder"
-msgstr ""
+msgstr "(4) Obligaciones de los miembros"
 
 #: ../../source/index.rst:153 085b7679ba4844469ed1323456e71c25
 msgid ""
@@ -339,6 +426,10 @@ msgid ""
 "verpflichtet, die Ziele und Interessen des Vereins zu unterstützen sowie "
 "die Beschlüsse und Anordnungen der Vereinsorgane zu befolgen."
 msgstr ""
+"Al solicitar la afiliación, los miembros aceptan el contenido de los "
+"estatutos y demás reglamentos de la asociación. Los miembros están obligados "
+"a apoyar los objetivos e intereses de la asociación, así como a cumplir las "
+"decisiones y disposiciones de los órganos de la misma."
 
 #: ../../source/index.rst:157 088ac845a7104dcca034fcb7755fe9cb
 msgid ""
@@ -347,46 +438,54 @@ msgid ""
 "Vorstand über jede Änderung ihres Namens und/oder ihrer Adressdaten "
 "unverzüglich zu informieren."
 msgstr ""
+"Los miembros están obligados a proporcionar a la Junta Directiva una "
+"dirección postal y una dirección de correo electrónico válidas e informar a "
+"la Junta Directiva inmediatamente de cualquier cambio en su nombre y/o datos "
+"de dirección."
 
 #: ../../source/index.rst:162 cfa0604b62db4fe89fba9fbe1da85b13
 msgid "§ 5 Die Organe des Vereins"
-msgstr ""
+msgstr "§ 5 Los órganos de dirección"
 
 #: ../../source/index.rst:163 4ab77d71d8e14c75a0de30fe76d2a418
 msgid "Die Organe des Vereins sind"
-msgstr ""
+msgstr "La asociación cuenta con los siguientes órganos"
 
 #: ../../source/index.rst:165 87a6e379966843ee9087fe4406d6520c
 msgid "die Mitgliederversammlung sowie"
-msgstr ""
+msgstr "la junta general y"
 
 #: ../../source/index.rst:166 43d8da8b82474c509d1a92c9dd0ca2ae
 msgid "der Vorstand."
-msgstr ""
+msgstr "la junta directiva."
 
 #: ../../source/index.rst:170 53ff6d300eb144dbb05bc65671a0920d
 msgid "§ 6 Der Vorstand"
-msgstr ""
+msgstr "§ 6 La Junta Directiva"
 
 #: ../../source/index.rst:173 71d42a90b0d24c2aaea99ce636727f4f
 msgid "(1) Anzahl der Vorstandsmitglieder"
-msgstr ""
+msgstr "(1) Número de miembros"
 
 #: ../../source/index.rst:174 0ed75a6edd504515900d8c8cb40f3f2e
 msgid ""
 "Der Vorstand besteht aus mindestens 3 und maximal 7 Personen, ihm können "
 "nur natürliche Personen angehören."
 msgstr ""
+"La junta directiva está formada por un mínimo de 3 y un máximo de 7 "
+"personas, y sólo pueden ser miembros personas naturales."
 
 #: ../../source/index.rst:176 3f9caca6caf54277a32d77785100eb75
 msgid ""
 "Der Vorstand wählt aus seiner Mitte einen Vorsitzenden und zwei "
 "Stellvertreter. Einer der Stellvertreter ist der Schatzmeister."
 msgstr ""
+"La junta directiva elegirá de entre sus miembros a un presidente y dos "
+"vicepresidentes. Uno de los vicepresidentes será el tesorero."
 
 #: ../../source/index.rst:179 09cd2a76431f41dba18bca7ebc04f7ec
 msgid "(2) Vertretungsberechtigung"
-msgstr ""
+msgstr "(2) Representación legal"
 
 #: ../../source/index.rst:180 8a71a7d0fe7541908c5f8f9b74b599d0
 msgid ""
@@ -394,10 +493,14 @@ msgid ""
 "Mitgliederversammlung können Vorstandsmitglieder von den Beschränkungen "
 "des § 181 BGB befreit werden."
 msgstr ""
+"Un miembro del directorio está autorizado a representar a la empresa. Por "
+"acuerdo de la junta general, los miembros del consejo de administración "
+"pueden quedar exentos de las restricciones del artículo 181 del Código Civil "
+"alemán (BGB)."
 
 #: ../../source/index.rst:184 7982ba29c225468d897f93844af678f2
 msgid "(3) Aufgaben"
-msgstr ""
+msgstr "(2) Deberes"
 
 #: ../../source/index.rst:185 f2c8a3bc40954ea895e8122845131ad9
 msgid ""
@@ -405,70 +508,81 @@ msgid ""
 "Angelegenheiten gerichtlich und außergerichtlich, soweit diese nicht "
 "eines Beschlusses der Mitgliederversammlung bedürfen."
 msgstr ""
+"La junta directiva gestiona los asuntos y representa a la asociación en "
+"todos los asuntos judiciales y extrajudiciales, siempre que estos no "
+"requieran una resolución de la asamblea general."
 
 #: ../../source/index.rst:188 2d9bfb850b0c43fab840385b658566e8
 msgid "Darüber hinaus hat er insbesondere folgende Aufgaben:"
-msgstr ""
+msgstr "Además, tiene las siguientes funciones específicas:"
 
 #: ../../source/index.rst:190 d587f61458ae41a8b82f4b55e91b39de
 msgid ""
 "Vorbereitung und Einberufung der Mitgliederversammlung; Aufstellung der "
 "Tagesordnung;"
 msgstr ""
+"Preparación y convocatoria de la Asamblea General; Preparación del orden del "
+"día;"
 
 #: ../../source/index.rst:191 6a8648b2017046eface82f07e35cfe54
 msgid "Ausführung der Beschlüsse der Mitgliederversammlung;"
-msgstr ""
+msgstr "Ejecución de los acuerdos de la asamblea general;"
 
 #: ../../source/index.rst:192 14d3b43699844d218549a3544baf621b
 msgid "Führen der Bücher;"
-msgstr ""
+msgstr "Llevar los libros de la asociación;"
 
 #: ../../source/index.rst:193 7f5b745e842f40cbb2e9d9417a464405
 msgid ""
 "Erstellung des Haushaltsplans, des Jahresabschlusses und des "
 "Jahresberichtes;"
 msgstr ""
+"Elaboración del presupuesto, de los estados financieros anuales y del "
+"informe anual;"
 
 #: ../../source/index.rst:194 993f5c9430f24e18bea393ee1a50c96a
 msgid "Abschluss u. Kündigung von Dienst- u. Arbeitsverträgen;"
-msgstr ""
+msgstr "Celebración y terminación de contratos de servicios y de trabajo;"
 
 #: ../../source/index.rst:195 a2d39f91d5bc465c902d72cb0d27cc43
 msgid "Ausübung des Weisungsrechtes gegenüber Mitarbeitern;"
-msgstr ""
+msgstr "Ejercicio del derecho de dirección de la asociación;"
 
 #: ../../source/index.rst:196 296eee5db84448c2a5f0e19a6a25b16c
 msgid "Beschlussfassung über die Aufnahme und den Ausschluss von Mitgliedern;"
-msgstr ""
+msgstr "Resolución sobre la admisión y la expulsión de miembros;"
 
 #: ../../source/index.rst:197 0635492e38414faeb4f662058459533f
 msgid ""
 "Der Vorstand kann Satzungsänderungen beschließen, die durch das "
 "Vereinsregister oder die Finanzbehörde verlangt wurden."
 msgstr ""
+"La junta directiva puede acordar modificaciones de los estatutos que hayan "
+"sido requeridas por el registro de asociaciones o la autoridad fiscal."
 
 #: ../../source/index.rst:200 5391510f4d1c47aaac706ac44f332f98
 msgid "Im Innenverhältnis gilt: Der Vorstand darf nicht:"
-msgstr ""
+msgstr "En las relaciones internas la junta directiva no podrá:"
 
 #: ../../source/index.rst:203 895f8ca9dc9c44de837c7d6cd3b24c3a
 msgid "über den An- und Verkauf sowie die Belastung von Grundbesitz,"
-msgstr ""
+msgstr "decidir sobre la compra, venta o gravamen de bienes inmuebles,"
 
 #: ../../source/index.rst:204 f93241023b754b51a0da9485bda0751b
 msgid "die finanzielle Beteiligung an Gesellschaften sowie"
-msgstr ""
+msgstr "la participación financiera en sociedades, así como"
 
 #: ../../source/index.rst:205 308bac66bd8b4c218c4a220cf03c5b7e
 msgid ""
 "die Aufnahme von Darlehen ab EURO 10.000,-, entscheiden. Dies bleibt der "
 "Mitgliederversammlung vorbehalten."
 msgstr ""
+"la contratación de préstamos a partir de 10.000 euros. Esto sigue siendo "
+"competencia exclusiva de la asamblea general."
 
 #: ../../source/index.rst:209 4c61afe9a4634487a1ceb124d0cf276a
 msgid "(4) Wahl"
-msgstr ""
+msgstr "(4) Elección"
 
 #: ../../source/index.rst:210 3fea1ce72b6d4358a133f53ed484f2cb
 msgid ""
@@ -481,12 +595,21 @@ msgid ""
 "kann in jedem folgenden Wahlgang auch dafür gestimmt werden das der Sitz "
 "frei bleibt."
 msgstr ""
+"Los miembros de la junta directiva son elegidos por la asamblea general por "
+"un período de un año. Solo los miembros de la asociación son elegibles. La "
+"reelección es posible. Los miembros de la junta directiva son designados por "
+"la asamblea general en una votación separada por cada cargo a cubrir. En "
+"cada ronda de votación, los miembros emiten un voto por candidato. Una vez "
+"elegida la cantidad mínima de miembros de la junta, en las siguientes rondas "
+"de votación también se puede votar para que el cargo quede vacante."
 
 #: ../../source/index.rst:215 cc6f1604b2724015931c9bd4f4e50dcb
 msgid ""
 "Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer "
 "Amtszeit so lange im Amt, bis ihre Nachfolger gewählt sind."
 msgstr ""
+"Los miembros actuales de la junta permanecen en funciones tras el "
+"vencimiento de su mandato hasta que se elijan sus sucesores."
 
 #: ../../source/index.rst:217 718b2b2daf314cbe84fe1dcb77f8ad01
 msgid ""
@@ -495,10 +618,13 @@ msgid ""
 "ein Ersatzmitglied in den Vorstand kooptieren. Maximal dürfen zwei "
 "Vorstandsmitglieder kooptiert werden."
 msgstr ""
+"Si un miembro de la junta renuncia antes del final de su mandato, los "
+"miembros restantes pueden cooptar un miembro suplente hasta la próxima "
+"asamblea general. Se pueden cooptar como máximo dos miembros de la junta."
 
 #: ../../source/index.rst:222 a0c2d880e0fb4402b2077b9fcd208142
 msgid "(5) Vergütung"
-msgstr ""
+msgstr "(5) Remuneración"
 
 #: ../../source/index.rst:223 d751f715327b4b00ac595f74e80533bb
 msgid ""
@@ -507,10 +633,14 @@ msgid ""
 "dem Grunde und der Höhe nach der vorherigen Beschlussfassung der "
 "Mitgliederversammlung."
 msgstr ""
+"Los miembros de la junta directiva pueden recibir además una remuneración "
+"adecuada por su labor. La remuneración por el tiempo dedicado requiere "
+"aprobación previa de la asamblea general tanto en cuanto a su justificación "
+"como a su cuantía."
 
 #: ../../source/index.rst:227 4424edea482347b992d2578bc9d72af3
 msgid "(6) Beschlussfassung"
-msgstr ""
+msgstr "(6) Adopción de resoluciones"
 
 #: ../../source/index.rst:228 f934a5eaaaf2417497451f2f25afc54a
 msgid ""
@@ -519,6 +649,10 @@ msgid ""
 "Textform einberufen werden. In jedem Fall ist eine Einberufungsfrist von "
 "einer Woche einzuhalten."
 msgstr ""
+"La junta directiva toma sus decisiones en reuniones convocadas por el "
+"presidente o, en caso de impedimento, por uno de los vicepresidentes, por "
+"escrito. En todo caso, se debe respetar un plazo de convocatoria de una "
+"semana."
 
 #: ../../source/index.rst:231 7016890661794aaeb633bc728193682c
 msgid ""
@@ -527,6 +661,11 @@ msgid ""
 "alternativ durch Einwahl aller Teilnehmer in eine Video- oder "
 "Telefonkonferenz. Im Übrigen gelten dieselben Regelungen."
 msgstr ""
+"Las reuniones de la junta directiva pueden celebrarse de forma virtual. La "
+"reunión virtual de la junta se lleva a cabo mediante el software Overte o, "
+"alternativamente, mediante la conexión de todos los participantes a una "
+"videoconferencia o teleconferencia. Por lo demás, se aplican las mismas "
+"disposiciones."
 
 #: ../../source/index.rst:234 9ab6e1a87bcc4a5bb053ba1147df6f00
 msgid ""
@@ -536,10 +675,14 @@ msgid ""
 "Mehrheit der abgegebenen gültigen Stimmen. Bei Stimmengleichheit "
 "entscheidet die Stimme des 1. Vorsitzenden."
 msgstr ""
+"La junta directiva tendrá quórum cuando al menos tres de sus miembros, entre "
+"ellos el presidente o uno de sus vicepresidentes, estén presentes. Las "
+"decisiones se adoptan por mayoría de votos válidos emitidos. En caso de "
+"empate, decide el voto del presidente."
 
 #: ../../source/index.rst:239 bf76d504289d4727b88efb195e841fd2
 msgid "(7) Haftungsbeschränkung"
-msgstr ""
+msgstr "(7) Limitación de responsabilidad"
 
 #: ../../source/index.rst:240 dad6d652b0b047cd802f714bca8e7939
 msgid ""
@@ -550,10 +693,15 @@ msgid ""
 "sofern das Vorstandsmitglied nicht vorsätzlich oder grob fahrlässig "
 "handelte."
 msgstr ""
+"Los miembros de la junta directiva solo serán responsables frente a la "
+"asociación por conducta dolosa o negligencia grave. Si un miembro de la "
+"junta directiva es reclamado por terceros debido a su actividad como "
+"directivo, la asociación lo exime de dichas reclamaciones, siempre que no "
+"haya actuado con dolo o negligencia grave."
 
 #: ../../source/index.rst:247 f5e45342675b47028f96df273123bb7a
 msgid "§ 7 Kassenprüfung"
-msgstr ""
+msgstr "§ 7 Revisión de cuentas"
 
 #: ../../source/index.rst:249 54b7e0863878451281c648a9fb1cbec6
 msgid ""
@@ -562,6 +710,9 @@ msgid ""
 " zulässig. Lässt sich kein Kassenprüfer finden, wird die Kassenprüfung "
 "bis zur nächsten Mitgliederversammlung ausgesetzt."
 msgstr ""
+"La asamblea general elige por un año a una persona como revisor fiscal. Esta "
+"persona no puede ser miembro de la junta directiva. Si no se encuentra un "
+"revisor fiscal, la revisión se suspende hasta la siguiente asamblea general."
 
 #: ../../source/index.rst:252 e886317a02bb402198aa8142110ee3fc
 msgid ""
@@ -569,6 +720,9 @@ msgid ""
 "Belege mindestens einmal im Geschäftsjahr sachlich und rechnerisch zu "
 "prüfen und dem Vorstand jeweils schriftlich Bericht zu erstatten."
 msgstr ""
+"El revisor fiscal debe examinar al menos una vez al año el estado de caja de "
+"la asociación, incluidos los libros y justificantes, tanto en lo material "
+"como en lo contable, y presentar un informe escrito al consejo directivo."
 
 #: ../../source/index.rst:255 9b7e9acc63794a4a8414d9da685f8a94
 msgid ""
@@ -577,12 +731,17 @@ msgid ""
 "Kassengeschäfte die Entlastung des Schatzmeisters sowie der übrigen "
 "Vorstandsmitglieder."
 msgstr ""
+"El revisor fiscal presenta un informe a la asamblea general y, si la gestión "
+"financiera ha sido adecuada, propone la aprobación de la gestión del "
+"tesorero y de los demás miembros del consejo directivo."
 
 #: ../../source/index.rst:258 d46abd398e33455d931c649fa8b36647
 msgid ""
 "Der Kassenprüfer nimmt seine Aufgaben gewissenhaft und unparteiisch wahr "
 "und ist zur Verschwiegenheit verpflichtet."
 msgstr ""
+"El revisor fiscal debe ejercer sus funciones con diligencia, imparcialidad y "
+"está obligado a guardar confidencialidad."
 
 #: ../../source/index.rst:260 80d6fcc2d8aa4d7c873dedf7c6308322
 msgid ""
@@ -590,22 +749,24 @@ msgid ""
 "erforderlichen Unterlagen zugänglich zu machen und die erforderlichen "
 "Auskünfte zu erteilen."
 msgstr ""
+"La junta directiva está obligada a facilitar al revisor los documentos "
+"necesarios para la revisión y a proporcionar la información requerida."
 
 #: ../../source/index.rst:265 f0fc4d85ba81470099c0a19b66cba434
 msgid "§ 8 Ordentliche Mitgliederversammlung"
-msgstr ""
+msgstr "§ 8 Asamblea general ordinaria"
 
 #: ../../source/index.rst:268 34a5a95734454d518a0bcdafcbc790bb
 msgid "(1) Häufigkeit"
-msgstr ""
+msgstr "(1) Frecuencia"
 
 #: ../../source/index.rst:269 7a37731a35fc4e0c9d640e934302a1c0
 msgid "Die Mitgliederversammlung findet mindestens einmal jährlich statt."
-msgstr ""
+msgstr "La asamblea general se celebrará al menos una vez al año."
 
 #: ../../source/index.rst:272 95a16e89df054d048741e9e5c065bc74
 msgid "(2) Präsenzversammlung und virtuelle Mitgliederversammlung"
-msgstr ""
+msgstr "(2) Asamblea presencial y asamblea virtual"
 
 #: ../../source/index.rst:273 f1a5eb1f80294a5482e41096f564338a
 msgid ""
@@ -616,6 +777,11 @@ msgid ""
 " oder alternativ durch Einwahl aller Teilnehmer in eine Video- oder "
 "Telefonkonferenz."
 msgstr ""
+"La asamblea general puede celebrarse de forma presencial o virtual. En la "
+"asamblea presencial, todos los participantes se reúnen en un lugar común. La "
+"asamblea virtual se lleva a cabo mediante la plataforma Overte o, "
+"alternativamente, a través de una videoconferencia o conferencia telefónica "
+"con la participación de todos los miembros."
 
 #: ../../source/index.rst:278 78b77a98ba914dceafd51b7ed5a1d1cb
 msgid ""
@@ -624,6 +790,9 @@ msgid ""
 "eröffnet wird, an der Präsenzversammlung mittels Video- oder "
 "Telefonkonferenz teilzunehmen."
 msgstr ""
+"Es posible combinar la asamblea presencial con la virtual, permitiendo a los "
+"miembros participar en la reunión presencial mediante videoconferencia o "
+"conferencia telefónica."
 
 #: ../../source/index.rst:281 05ce887478fd4d7a961e027ee7ca7364
 msgid ""
@@ -634,10 +803,15 @@ msgid ""
 "per E-Mail die Einwahldaten für die Overte-Software oder Video- oder "
 "Telefonkonferenz mit."
 msgstr ""
+"La junta directiva decide la modalidad de la asamblea general e informa de "
+"ello en la convocatoria correspondiente. Si la junta convoca una asamblea "
+"virtual, deberá enviar a los miembros, como mínimo una hora antes del "
+"inicio, los datos de acceso a la plataforma Overte o a la videoconferencia o "
+"conferencia telefónica por correo electrónico."
 
 #: ../../source/index.rst:286 6d85a88434c3491a9d2998a3d154fc95
 msgid "(3) Einberufung und Tagesordnung"
-msgstr ""
+msgstr "(3) Convocatoria y orden del día"
 
 #: ../../source/index.rst:287 7be3ea014f9f4f7292a29bbc9701c9aa
 msgid ""
@@ -648,6 +822,12 @@ msgid ""
 "zugegangen, wenn es an die letzte vom Mitglied dem Verein bekannt "
 "gegebene Adresse gerichtet ist."
 msgstr ""
+"La convocatoria a la asamblea general se realiza por escrito o por correo "
+"electrónico por parte de la junta directiva, indicando el orden del día, con "
+"una antelación mínima de dos semanas. El plazo comienza el día en que se "
+"envía la convocatoria. La convocatoria se considerará recibida por el "
+"miembro si ha sido enviada a la última dirección comunicada por este a la "
+"asociación."
 
 #: ../../source/index.rst:292 0487092ff9e44f1a9633769b25b82ba2
 msgid ""
@@ -657,20 +837,27 @@ msgid ""
 "Versammlungsleiter hat die Ergänzung zu Beginn der Versammlung bekannt zu"
 " geben."
 msgstr ""
+"Cualquier miembro puede presentar propuestas para complementar el orden del "
+"día. Estas propuestas deben presentarse al menos una semana antes de la "
+"asamblea, por escrito o por correo electrónico, con la debida "
+"justificación.El presidente de la asamblea deberá anunciar las adiciones al "
+"orden del día al inicio de la reunión."
 
 #: ../../source/index.rst:297 a38bf56121934341bfeffc8819ee931a
 msgid "(4) Beschlussfähigkeit"
-msgstr ""
+msgstr "(4) Quórum deliberativo"
 
 #: ../../source/index.rst:298 9dc467b43ff74bd8b1e18c7f26fc688d
 msgid ""
 "Die Mitgliederversammlung ist unabhängig von der Anzahl der erschienenen "
 "Mitglieder beschlussfähig."
 msgstr ""
+"La asamblea general podrá deliberar válidamente cualquiera sea el número de "
+"miembros presentes."
 
 #: ../../source/index.rst:301 c84028bf3420418badddc7adf2952f55
 msgid "(5) Beschlussfassung"
-msgstr ""
+msgstr "(5) Toma de decisiones"
 
 #: ../../source/index.rst:302 b330cbc8a2d344fdb6c6aedd43f41c15
 msgid ""
@@ -678,12 +865,17 @@ msgid ""
 "gefasst; bei Stimmengleichheit entscheidet der 1. Vorsitzende. "
 "Stimmenthaltungen gelten als nicht abgegebene Stimmen."
 msgstr ""
+"Las resoluciones se adoptan por mayoría simple de los votos emitidos; en "
+"caso de empate, decide el voto del presidente. Las abstenciones se "
+"consideran votos no emitidos."
 
 #: ../../source/index.rst:305 d7edc38d7d7a434cbb02b3d7384d0c1f
 msgid ""
 "Zur Änderung der Satzung und zur Auflösung des Vereins ist eine Mehrheit "
 "von 2/3 der abgegebenen Stimmen erforderlich."
 msgstr ""
+"Para modificar los estatutos o disolver la asociación se requiere una "
+"mayoría de dos tercios de los votos emitidos."
 
 #: ../../source/index.rst:307 38f99be26a914a69bc8066ac5d0dcd44
 msgid ""
@@ -691,6 +883,9 @@ msgid ""
 "für ein Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt "
 "werden."
 msgstr ""
+"Cada miembro dispone de un voto. El derecho al voto solo puede ejercerse "
+"personalmente o mediante presentación de un poder escrito en representación "
+"de otro miembro."
 
 #: ../../source/index.rst:310 dc2bd9f14efa4c27906e94ec755f0c11
 msgid ""
@@ -698,10 +893,12 @@ msgid ""
 "aufzunehmen, das vom jeweiligen Versammlungsleiter und dem "
 "Protokollführer zu unterzeichnen ist."
 msgstr ""
+"Las decisiones de la asamblea general deberán registrarse en un acta, la "
+"cual será firmada por el presidente de la asamblea y el secretario."
 
 #: ../../source/index.rst:314 550af93ca6b94d3eb7f529bdde084b27
 msgid "(6) Wahlen"
-msgstr ""
+msgstr "(6) Elecciones"
 
 #: ../../source/index.rst:315 6ed1ea590585466c8f3e65c4d5eb65db
 msgid ""
@@ -710,48 +907,59 @@ msgid ""
 " zwischen den Kandidaten statt, welche die beiden höchsten Stimmenzahlen "
 "erreicht haben."
 msgstr ""
+"En cuanto a las elecciones: si en la primera ronda ningún candidato obtiene "
+"la mayoría de los votos válidos emitidos, se realizará una segunda vuelta "
+"entre los dos candidatos con mayor número de votos."
 
 #: ../../source/index.rst:319 2695e245937040a5afecf42f488bedef
 msgid "(7) Aufgabenbereiche"
-msgstr ""
+msgstr "(7) Ámbitos de competencia"
 
 #: ../../source/index.rst:320 ff3b546ba3f84098a8fb960b50325261
 msgid "Die Mitgliederversammlung ist zuständig für:"
-msgstr ""
+msgstr "La asamblea general es competente para:"
 
 #: ../../source/index.rst:322 bd43615edeea451995b2d435616467c8
 msgid "die Wahl und Abberufung der Vorstandsmitglieder;"
-msgstr ""
+msgstr "elegir y destituir a los miembros de la junta directiva;"
 
 #: ../../source/index.rst:323 80096c89fc194b72b9aa649c73cb125a
 msgid "die Wahl der Kassenprüfer;"
-msgstr ""
+msgstr "elegir a los revisores fiscales;"
 
 #: ../../source/index.rst:324 4a09b0f03dda46f6a1f7f21b86506ea3
 msgid ""
 "die Genehmigung des vom Vorstand aufgestellten Haushaltsplans für das "
 "nächste Geschäftsjahr;"
 msgstr ""
+"aprobar el presupuesto elaborado por la junta directiva para el siguiente "
+"ejercicio fiscal;"
 
 #: ../../source/index.rst:325 6aeb0ac09fa5446595c7dcd0ae54e16f
 msgid "die Entgegennahme des Jahresberichts und die Entlastung des Vorstands;"
 msgstr ""
+"la recepción del informe anual y la aprobación de la gestión de la junta "
+"directiva;"
 
 #: ../../source/index.rst:326 2421af4e6eec4a138d8524c85c740b9a
 msgid ""
 "die Festsetzung der Höhe und der Fälligkeit des Jahresbeitrages "
 "(eventuell Auslagerung in Gebührenordnung)"
 msgstr ""
+"la determinación del monto y la fecha de vencimiento de la cuota anual ("
+"posiblemente delegada en un reglamento de tarifas)"
 
 #: ../../source/index.rst:327 04ae392f117043f89e0cb26d42a33980
 msgid ""
 "die Beschlussfassung über Satzungsänderungen und die Auflösung des "
 "Vereins."
 msgstr ""
+"la adopción de resoluciones sobre modificaciones estatutarias y la "
+"disolución de la asociación."
 
 #: ../../source/index.rst:331 feeac23deb234e42bff872b382c61fff
 msgid "(8) Versammlungsleitung"
-msgstr ""
+msgstr "(8) Dirección de la asamblea"
 
 #: ../../source/index.rst:332 28b3947c418a4388adfc6ca3039eddbc
 msgid ""
@@ -761,10 +969,15 @@ msgid ""
 " Versammlung den Leiter mit einfacher Mehrheit der abgegebenen Stimmen. "
 "Der Versammlungsleiter bestimmt einen Protokollführer."
 msgstr ""
+"La asamblea general será presidida por el presidente de la junta directiva "
+"o, en su ausencia, por su suplente o por el tesorero. Si ninguno de estos "
+"miembros de la junta está presente, la asamblea elegirá al presidente de la "
+"sesión por mayoría simple de los votos emitidos. El presidente de la "
+"asamblea designa a un secretario de actas."
 
 #: ../../source/index.rst:339 f7cd5c2fbebf4746ae3bba917fc14361
 msgid "§ 9 Außerordentliche Mitgliederversammlung"
-msgstr ""
+msgstr "§ 9 Asamblea general extraordinaria"
 
 #: ../../source/index.rst:340 d7ced7b8476e4d80979417a055b4c6e7
 msgid ""
@@ -772,10 +985,13 @@ msgid ""
 "Interesse des Vereins es erfordert oder wenn 1/5 der Mitglieder es "
 "schriftlich unter Angabe der Gründe beim Vorstand beantragt."
 msgstr ""
+"Se convocará una asamblea general extraordinaria cuando lo requiera el "
+"interés de la asociación o cuando una quinta parte de los miembros lo "
+"solicite por escrito al consejo directivo indicando los motivos."
 
 #: ../../source/index.rst:345 34d27a9c707841c497029ef156b04cc3
 msgid "§ 10 Auflösung des Vereins"
-msgstr ""
+msgstr "§ 10 Disolución de la asociación"
 
 #: ../../source/index.rst:346 940fce93cd8c4a068c3d9f0d3812cb55
 msgid ""
@@ -784,8 +1000,13 @@ msgid ""
 " Environment e.V., die es unmittelbar und ausschließlich für "
 "gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden hat."
 msgstr ""
+"En caso de disolución o liquidación de la asociación, o de pérdida de sus "
+"fines benéficos fiscales, el patrimonio de la asociación se transferirá a K "
+"Desktop Environment e.V., quien deberá destinarlo directa y exclusivamente a "
+"fines de interés general, benéficos o religiosos."
 
 #: ../../source/index.rst:352 ec4af948cfd2417cb5ed4e7ef62ba15a
 msgid "Zuletzt geändert von der Mitgliederversammlung am 17. September 2022."
 msgstr ""
-
+"Última modificación aprobada por la asamblea general el 17 de septiembre de "
+"2022."
