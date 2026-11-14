@@ -4,27 +4,30 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Overte e.V. Satzung 1.1\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: julian.gro@overte.org\n"
 "POT-Creation-Date: 2023-06-15 19:34+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2026-03-29 04:02+0000\n"
+"Last-Translator: mxreia <mxreixa@tuta.io>\n"
+"Language-Team: Japanese <https://weblate.overte.org/projects/overte/"
+"Overte-e-V-Articles-of-Association/ja/>\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../source/index.rst:4
 msgid "Contents:"
-msgstr ""
+msgstr "コンテンツ:"
 
 #: ../../source/index.rst:2 220fcbd314934414b4895732e148f2ed
 msgid "Overte e.V. Satzung"
-msgstr ""
+msgstr "Overte 財団 定款"
 
 #: ../../source/index.rst:11 5a93277e6e864c5986403d6d06a22d75
 msgid "Erklärung von Begriffen"
@@ -788,4 +791,3 @@ msgstr ""
 #: ../../source/index.rst:352 ec4af948cfd2417cb5ed4e7ef62ba15a
 msgid "Zuletzt geändert von der Mitgliederversammlung am 17. September 2022."
 msgstr ""
-
